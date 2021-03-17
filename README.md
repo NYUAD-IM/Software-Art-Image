@@ -1,4 +1,5 @@
-# NYU Abu Dhabi — Interactive Media SOFTWARE ART: TEXT
+# Software Art: Image
+NYU Abu Dhabi — Interactive Media<br/>
 IM-UH 2115 Spring 2021<br/>
 
 Software Art: Text is an applied introduction to the history, theory and practice of computer-aided artistic endeavors in the field of visual arts.
@@ -23,7 +24,7 @@ Discord channel **#softwareart**: invite on [NYU Classes](https://newclasses.nyu
 
 ---
 
-# NYUAD - Interactive Media Syllabus Software Art: Image
+# NYUAD - Interactive Media Software Art: Image
 This course counts towards the following NYUAD degree requirement:<br/>
 * Multidisciplinary Minors > Interactive Media
 * Majors > Art and Art History
