@@ -1,7 +1,7 @@
 _NYU Abu Dhabi — Interactive Media_
 # SOFTWARE ART: IMAGE
+IM-UH 2115
 
-IM-UH 2115 Spring 2021<br/>
 ## COURSE SYLLABUS
 
 _Spring 2021_<br/>
@@ -78,10 +78,12 @@ Students will be given grades based on a 100 point scale. Each assignment will b
 * 76-79 C+ etc.
 
 ## Readings
-Readings are available through NYU Classes->Resources and at (https://github.com/periode/software-art-image/tree/master/assets/readings/required).
+Readings are available through NYU Classes->Resources and at https://github.com/periode/software-art-image/tree/master/assets/readings/required.
+
  
-The required theoretical reading is Interaction of Color, by Josef Albers, Yale University Press, 2013.
-The required practical reading is ofBook, by Zach Lieberman et. al., https://github.com/ openframeworks/ofBook/
+The required theoretical reading is Interaction of Color, by Josef Albers, Yale University Press, 2013 (available through NYU Classes->Resources)
+
+The required practical reading is ofBook, by Zach Lieberman et. al., https://github.com/openframeworks/ofBook/
 
 ## Attendance
 Attendance and arriving on time to all class sessions is required and expected, too many unexcused absences will lower your final grade. Two unexcused absences lower your final grade by a letter. Each subsequent unexcused absence will lower another letter grade. Two tardies will count as one absence. Arriving more than 15 minutes late will also count as an absence. If you will be missing a class due to illness, or unavoidable personal circumstances, you must notify your professor in advance via email for the absence to be eligible to be excused.
