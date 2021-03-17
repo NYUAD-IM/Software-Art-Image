@@ -25,10 +25,13 @@
 
 - **Download** openFrameworks for your platform and follow the setup guide
   - [openFrameworks download](https://openframeworks.cc/download/)
-  - Download and install the appropriate IDE for your platform (e.g. Xcode for Mac or Visual Studio for Windows)
+  - Download and install the appropriate IDE for your platform
+    - [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) for Mac
+    - [Visual Studio Code](https://code.visualstudio.com) (not Visual Studio) for Windows / Linux (also works on Mac)
   - Follow the setup guide for your platform and compile one of the example oF apps
     - [openframeworks Mac Xcode setup](https://openframeworks.cc/setup/xcode/)
-    - [openFrameworks Windows Visual Studio setup](https://openframeworks.cc/setup/vs/)
+    - [openFrameworks Visual Studio Code setup](https://www.youtube.com/watch?v=OTtnB61s9uQ)
+  - In case of setup issues, post your question on Discord or email the professor
 
 <!--
 
