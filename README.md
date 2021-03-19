@@ -6,7 +6,7 @@ Software Art: Text is an applied introduction to the history, theory and practic
 
 _Spring 2021_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
-Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm<br/>
+Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm (all times Abu Dhabi/GST)<br/>
 Location: Zoom (check NYU Classes for Zoom link)</br>
 Office Hours: Discord or by appointment</br>
 Credits: 2<br/>
