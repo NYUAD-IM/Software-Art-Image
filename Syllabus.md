@@ -2,6 +2,9 @@ _NYU Abu Dhabi — Interactive Media_
 # SOFTWARE ART: IMAGE
 IM-UH 2115
 
+"Art is a breach in the system"
+--Véra Molnar
+
 ## COURSE SYLLABUS
 
 _Spring 2021_<br/>
