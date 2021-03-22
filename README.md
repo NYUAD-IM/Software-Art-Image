@@ -18,6 +18,8 @@ https://github.com/NYUAD-IM/Software-Art-Image
 
 [Weekly Schedule](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/WeeklySchedule.md)
 
+[Assignments](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/Assignments.md)
+
 Class recordings: available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
 
 Discord channel **#softwareart**: invite on [NYU Classes](https://newclasses.nyu.edu/)
