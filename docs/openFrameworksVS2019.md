@@ -29,7 +29,7 @@ Build your first example:
 * Click the play icon in the top toolbar to run/debug the project
 * You should see some output in the Output window at the bottom and eventually the app will run!
 
-![Graphics running](Graphics_running.png "Graphics running")
+![Graphics running](Graphics_Running.png "Graphics running")
 
 * Click the close window button or hit ESC to exit the app
   * You can follow the directions in the command window to automatically close the command window after exiting the app
