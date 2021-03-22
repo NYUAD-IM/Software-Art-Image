@@ -48,7 +48,9 @@
 
 #### Homework (due 3/24)
 - **Build and run** an oF example on your computer
-- **Create** an openFrameworks app with a composition using 3 circles
+- **Watch** tutorials 0-7 from the [openFrameworks tutorial series](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=1)
+- **Create** an openFrameworks app with a composition using 3 circles of different colours
+- **Post** your image to Discord (much preferred) or email it to Mang
 - **Read** and be ready to discuss
   - [What is computer art?](https://github.com/periode/software-art-image/blob/master/assets/readings/required/kawano_art.pdf) Hiroshi Kawano, 1975
   - [Computer and the Visual Arts](https://github.com/periode/software-art-image/blob/master/assets/readings/required/noll_computers_visualarts.pdf) Michael Noll, 1966
