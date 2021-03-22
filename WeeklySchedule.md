@@ -42,7 +42,7 @@
   - Writing your own code
   - Getting help
     - Discord
-    - oF forums
+    - [Other sources of help](https://github.com/periode/software-art-image/wiki/code-help)
 
   - Sharing code
 
