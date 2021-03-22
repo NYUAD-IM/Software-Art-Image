@@ -1,9 +1,8 @@
 # Weekly Schedule
 
 * [Week 1 (3/17) - Introduction](#week1)
-
+* [Week 2 (3/22) - Getting Started](#week2)
 <!--
-* [Week 2 (3/22)](#week2)
 * [Week 3 (3/29) - Assignment 1 Presentations](#week3)
 * [Week 4 (4/5)](#week4)
 * [Week 5 (5/12) - Assignment 2 Presentations](#week5)
@@ -23,25 +22,25 @@
 
 - **Post** one computer generated image that appeals to you to the #softwareart Discord channel (or email it to Mang)
 
-- **Download** openFrameworks for your platform and follow the setup guide
-  - [openFrameworks download](https://openframeworks.cc/download/)
-  - Download and install the appropriate IDE for your platform
-    - [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) for Mac
-    - [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/) for Windows
-  - Follow the setup guide for your platform and compile one of the example oF apps
+- **Download** openFrameworks and an IDE (Integrated Development Editor) for your platform and follow the setup guide
     - [openframeworks Mac Xcode setup](https://openframeworks.cc/setup/xcode/)
-    - [openFrameworks Visual Studio setup](https://openframeworks.cc/setup/vs/)
-      - Note that you can use Visual Studio 2019, but you will need to update the "Solution" file for each oF app when prompted or right-click on the Solution browser and choose "Retarget" to update
+    - [openFrameworks Visual Studio 2019 Windows setup](docs/openFrameworksVS2019.md)
   - In case of setup issues, post your question on Discord or email the professor
 
-<!--
+
 
 ## <a name="week2"></a>Week 2
 
 ### Week 2 (1/25)
 - Review Homework
 
-- Talk about Project 1 Assemblage **due Week 3 (2/1)**
+- Talk about Project 1 Still **due Week 3**
+
+- Workshop - Getting Started
+
+
+<!--
+
   - **Create** a text artwork using Python. The artwork could be the generated text, the code itself, or a combination
   - The work should:
     - Use algorithms to generate the text
@@ -119,6 +118,8 @@
 - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
 - **Prepare** to present your work in class (6-8 minutes + discussion)
 
+
+<!--
 ## <a name="week3"></a>Week 3
 
 ### Week 3 (2/1)
