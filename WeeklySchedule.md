@@ -27,10 +27,11 @@
   - [openFrameworks download](https://openframeworks.cc/download/)
   - Download and install the appropriate IDE for your platform
     - [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) for Mac
-    - [Visual Studio Code](https://code.visualstudio.com) (not Visual Studio) for Windows / Linux (also works on Mac)
+    - [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/) for Windows
   - Follow the setup guide for your platform and compile one of the example oF apps
     - [openframeworks Mac Xcode setup](https://openframeworks.cc/setup/xcode/)
-    - [openFrameworks Visual Studio Code setup](https://www.youtube.com/watch?v=OTtnB61s9uQ)
+    - [openFrameworks Visual Studio setup](https://openframeworks.cc/setup/vs/)
+      - Note that you can use Visual Studio 2019, but you will need to update the "Solution" file for each oF app when prompted or right-click on the Solution browser and choose "Retarget" to update
   - In case of setup issues, post your question on Discord or email the professor
 
 <!--
