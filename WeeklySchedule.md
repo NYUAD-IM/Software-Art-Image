@@ -34,6 +34,11 @@
 - Talk about Assignment 1 Still **due Week 3 (3/31)**
   - [Assignment 1 Still instructions](Assignments.md#assignment-1---still)
 
+- [Artists working with computational media](https://github.com/periode/software-art-image/wiki/artists)
+
+- Animated GIFs with openFrameworks on Tumblr
+    - https://necessary-disorder.tumblr.com/
+
 - Introduction to openFrameworks
 
 - Workshop - Getting Started
