@@ -62,6 +62,11 @@
 
 ### Week 2 (3/24)
 - Reading discussion
+  - [Hiroshi Kawano](https://www.openculture.com/2017/05/philosopher-hiroshi-kawano-makes-digital-mondrians-in-1964-the-birth-of-digital-art.html)
+  - [Selected Works](http://www03.zkm.de/kawano/index.php/en/works)
+  - [Perlin Noise](https://www.youtube.com/watch?v=XbiAGyodS3U)
+- Review Homework
+  - [ofSetCircleResolution](https://openframeworks.cc/documentation/graphics/ofGraphics/#!show_ofSetCircleResolution)
 - Algorithms and art
 
 ## <a name="week3"></a>Week 3
