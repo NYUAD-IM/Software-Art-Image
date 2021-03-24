@@ -83,7 +83,8 @@
 
   #### Homework (due 3/29)
   - **Watch** these Tutorials
-    - [Line drawing](https://www.youtube.com/watch?v=huUtLo5FjWw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=26)
+    - [drawing generative lines tutorial](https://www.youtube.com/watch?v=S4KMORhoFMk)
+    <!-- - [Line drawing](https://www.youtube.com/watch?v=huUtLo5FjWw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=26) -->
     - [ofxGUI](https://www.youtube.com/watch?v=OzTtd79vfQw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=18)
     - [ofxParameter](https://www.youtube.com/watch?v=DX86QshkduQ&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=19)
     - [screenshot](https://www.youtube.com/watch?v=A-QbjrGSj60&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=17)
