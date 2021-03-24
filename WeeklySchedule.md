@@ -68,6 +68,18 @@
 - Review Homework
   - [ofSetCircleResolution](https://openframeworks.cc/documentation/graphics/ofGraphics/#!show_ofSetCircleResolution)
 - Algorithms and art
+  - [Why Love Generative Art?](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
+  - [Vera Molnár: the computer art goddess](https://opheliaming.medium.com/vera-moln%C3%A1r-the-computer-art-goddess-26a84efbea4b)
+  - [Vera Molnar - Artist and Computer](https://www.atariarchives.org/artist/sec11.php)
+  - [Vera Molnar - 25 Carrès (25 Squares)](https://digitalartmuseum.org/gallery/image/8851.html)
+  - [25 Squares (Open Processing Sketch)](https://openprocessing.org/sketch/209391/)
+
+- Colour theory
+  - [Guide to Understanding Color Theory](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/)
+  - [Color Theory Basics (YouTube)](https://www.youtube.com/watch?v=L1CK9bE3H_s)
+  - [Interaction of Color](https://www.brainpickings.org/2013/08/16/interaction-of-color-josef-albers-50th-anniversary/)
+  - [ofColor](https://openframeworks.cc/documentation/types/ofColor/)
+
 
 ## <a name="week3"></a>Week 3
 
