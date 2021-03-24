@@ -81,9 +81,23 @@
   - [ofColor](https://openframeworks.cc/documentation/types/ofColor/)
 
 
+  #### Homework (due 3/29)
+  - **Watch** these Tutorials
+    - [Line drawing](https://www.youtube.com/watch?v=huUtLo5FjWw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=26)
+    - [ofxGUI](https://www.youtube.com/watch?v=OzTtd79vfQw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=18)
+    - [ofxParameter](https://www.youtube.com/watch?v=DX86QshkduQ&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=19)
+    - [screenshot](https://www.youtube.com/watch?v=A-QbjrGSj60&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=17)
+
+  - **Code** an openFrameworks app that makes a drawing with lines and points that can be controlled by sliders
+    - The sliders could control e.g. thickness, number of lines, or color
+
+
+
+
 ## <a name="week3"></a>Week 3
 
 ### Week 3 (3/29)
+- Algorithmic techniques in oF
 - Work session
 
 ### Week 3 (3/31)
