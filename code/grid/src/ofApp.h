@@ -25,6 +25,9 @@ class ofApp : public ofBaseApp{
         // Our custom functions
         void drawShape(int gridIndex);
     
+        void saveImage(string filename);
+        string timestampedFilename();
+    
     // Grid settings
     int columns;
     int rows;
@@ -42,4 +45,9 @@ class ofApp : public ofBaseApp{
     ofParameterGroup gridGroup;
     ofParameter<int> columnsSlider;
     ofParameter<int> rowsSlider;
+    
+    // Screengrab image
+    ofImage screenImage;
+                       
+        
 };

@@ -62,6 +62,21 @@ void ofApp::draw(){
 
 
 //--------------------------------------------------------------
+// CUSTOM FUNCTIONS
+void ofApp::saveImage(string filename) {
+    screenImage.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
+    screenImage.save(filename);
+}
+
+string ofApp::timestampedFilename() {
+    return ofGetTimestampString("grid-%Y%m%d-%H%M%S-%i.png");
+}
+
+//--------------------------------------------------------------
+// EVENTS
+
+
+//--------------------------------------------------------------
 void ofApp::keyPressed(int key){
     
     switch (key) {
@@ -81,6 +96,11 @@ void ofApp::keyPressed(int key){
         case 'g':
             isDrawGUI = !isDrawGUI;
             break;
+            
+        case 's':
+            string filename = this->timestampedFilename();
+            ofLog(OF_LOG_NOTICE, "Saving image to %s", filename.c_str());
+            this->saveImage(filename);
     }
 }
 
