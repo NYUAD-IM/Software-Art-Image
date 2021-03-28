@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxGui.h"
 
 class ofApp : public ofBaseApp{
 
@@ -21,14 +22,24 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
-    void drawShape(int gridIndex);
-    		
+        // Our custom functions
+        void drawShape(int gridIndex);
     
+    // Grid settings
     int columns;
     int rows;
     
+    // Calculated values
     float cellWidth;
     float cellHeight;
     
+    // Toggle for debug information
     bool isDebugging;
+    bool isDrawGUI;
+    
+    // GUI
+    ofxPanel gui;
+    ofParameterGroup gridGroup;
+    ofParameter<int> columnsSlider;
+    ofParameter<int> rowsSlider;
 };

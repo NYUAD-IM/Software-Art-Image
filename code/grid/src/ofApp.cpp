@@ -4,6 +4,7 @@
 void ofApp::setup(){
     ofLog(OF_LOG_NOTICE, "Setting up");
     isDebugging = false;
+    isDrawGUI = false; // turn on with 'g'
     
     // White background
     ofSetBackgroundColor(255, 255, 255);
@@ -13,10 +14,20 @@ void ofApp::setup(){
     
     columns = 5;
     rows = 5;
+    
+    // Setup GUI
+    gridGroup.setName("Grid settings");
+    gridGroup.add(columnsSlider.set("Columns", 5, 1, 25));
+    gridGroup.add(rowsSlider.set("Rows", 5, 1, 25));
+    gui.setup(gridGroup);
+    
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
+    columns = columnsSlider;
+    rows = rowsSlider;
+    
     // Calculate the cell sizes based off the current parameters
     cellWidth = float(ofGetWindowWidth()) / columns;
     cellHeight = float(ofGetWindowHeight()) / rows;
@@ -42,22 +53,33 @@ void ofApp::draw(){
             gridIndex += 1;
         }
     }
+    
+    if (isDrawGUI) {
+        gui.draw();
+    }
 }
 
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-    if (key == 'd') {
-        // Toggle debug output
-        isDebugging = !isDebugging;
-        
-        if (isDebugging) {
-            ofSetLogLevel(OF_LOG_VERBOSE);
-            ofLog(OF_LOG_NOTICE,"Debugging ENABLED");
-        } else {
-            ofSetLogLevel(OF_LOG_NOTICE);
-            ofLog(OF_LOG_NOTICE,"Debugging disabled");
-        }
+    
+    switch (key) {
+        case 'd':
+            // Toggle debug output
+            isDebugging = !isDebugging;
+            
+            if (isDebugging) {
+                ofSetLogLevel(OF_LOG_VERBOSE);
+                ofLog(OF_LOG_NOTICE,"Debugging ENABLED");
+            } else {
+                ofSetLogLevel(OF_LOG_NOTICE);
+                ofLog(OF_LOG_NOTICE,"Debugging disabled");
+            }
+            break;
+            
+        case 'g':
+            isDrawGUI = !isDrawGUI;
+            break;
     }
 }
 
