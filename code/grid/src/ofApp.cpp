@@ -80,6 +80,7 @@ string ofApp::timestampedFilename() {
 void ofApp::keyPressed(int key){
     
     switch (key) {
+            
         case 'd':
             // Toggle debug output
             isDebugging = !isDebugging;
@@ -93,11 +94,15 @@ void ofApp::keyPressed(int key){
             }
             break;
             
+            
         case 'g':
+            // Toggle GUI
             isDrawGUI = !isDrawGUI;
             break;
             
+            
         case 's':
+            // Take screenshot
             string filename = this->timestampedFilename();
             ofLog(OF_LOG_NOTICE, "Saving image to %s", filename.c_str());
             this->saveImage(filename);
