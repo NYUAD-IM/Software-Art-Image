@@ -12,13 +12,14 @@ void ofApp::setup(){
     // Smoother circles
     ofSetCircleResolution(100);
     
+    // Initial grid setup
     columns = 5;
     rows = 5;
     
     // Setup GUI
     gridGroup.setName("Grid settings");
-    gridGroup.add(columnsSlider.set("Columns", 5, 1, 25));
-    gridGroup.add(rowsSlider.set("Rows", 5, 1, 25));
+    gridGroup.add(columnsSlider.set("Columns", columns, 1, 25));
+    gridGroup.add(rowsSlider.set("Rows", 5, rows, 25));
     gui.setup(gridGroup);
     
 }
