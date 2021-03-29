@@ -2,8 +2,8 @@
 
 * [Week 1 (3/17) - Introduction](#week1)
 * [Week 2 (3/22) - Getting Started](#week2)
-* [Week 3 (3/29) - Assignment 1 Presentations](#week3)
-* [Week 4 (4/5)](#week4)
+* [Week 3 (3/29) - GitHub / Work Session / Color](#week3)
+* [Week 4 (4/5) - Assignment 1 Presentations](#week4)
 * [Week 5 (5/12) - Assignment 2 Presentations](#week5)
 * [Week 6 (5/19)](#week6)
 * [Week 7 (5/26)](#week7)
@@ -118,13 +118,21 @@
     - [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
 - Work session
 
+#### Homework (due 3/31)
+- Readings
+  - [Solo for a Black Stroke](https://github.com/periode/software-art-image/blob/master/assets/readings/required/molnar_line.pdf), Vera Molnar, 1997
+  - [Point](https://github.com/pierredepaz/software-art-image/blob/master/assets/readings/required/kandinsky_point.pdf), Wassily Kandinsky, 1926
+
 ### Week 3 (3/31)
-- Present Assignment 1 Still
-- Talk about Assignment 2 Motion
+- Discuss readings
+- Colour and the interactions thereof
+- Sinusoids and other functions
 
 ## <a name="week4"></a>Week 4
 
 ### Week 4 (4/5)
+- Present Assignment 1 Still
+- Talk about Assignment 2 Motion
 
 ### Week 4 (4/7)
 
