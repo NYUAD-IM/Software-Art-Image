@@ -98,11 +98,27 @@
 ## <a name="week3"></a>Week 3
 
 ### Week 3 (3/29)
+- Review homework
 - Algorithmic techniques in oF
+- [ofxAddons](https://ofxaddons.com/categories)
+  - [Addons Howto](https://ofxaddons.com/pages/howto)
+  - [Freshest addons](https://ofxaddons.com/freshest)
+
+- Sharing code on GitHub
+  - Setting up repository
+  - [.gitignore file](https://raw.githubusercontent.com/NYUAD-IM/Software-Art-Image/main/.gitignore)
+  - [Renaming to .whatever on Mac](https://stackoverflow.com/questions/5891365/mac-os-x-doesnt-allow-to-name-files-starting-with-a-dot-how-do-i-name-the-hta)
+  - [iTerm2 Terminal (Mac)](https://iterm2.com/)
+  - Creating a new project
+  - Moving existing projects
+  - Documentation
+    - README.md
+    - [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
 - Work session
 
 ### Week 3 (3/31)
 - Present Assignment 1 Still
+- Talk about Assignment 2 Motion
 
 ## <a name="week4"></a>Week 4
 
