@@ -13,6 +13,7 @@ Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm<br/>
 Location: Zoom (check NYU Classes for Zoom link)</br>
 Office Hours: Discord or by appointment</br>
 Credits: 2<br/>
+Add/Drop Period: 1 week for 7-week classes</br>
 
 **Course website:<br/>**
 https://github.com/NYUAD-IM/Software-Art-Image
