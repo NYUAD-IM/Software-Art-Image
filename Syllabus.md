@@ -19,9 +19,11 @@ Add/Drop Period: 1 week for 7-week classes</br>
 https://github.com/NYUAD-IM/Software-Art-Image
 
 # NYUAD - Interactive Media Syllabus Software Art: Image
-This course counts towards the following NYUAD degree requirement:<br/>
-* Multidisciplinary Minors > Interactive Media
-* Majors > Art and Art History
+This course appears in:<br/>
+* Majors > Art and Art History > Visual Arts/Practice Electives
+* Majors > Interactive Media > Computational Media
+* Minors > Interactive Media
+* Minors > Visual Arts
 
 ## Course Description
 Although computers only appeared a few decades ago, automation, repetition and process are concepts that have been floating around artists’ minds for almost a century. As machines enabled us to operate on a different scale, they escaped the domain of the purely functional and started to be used, and understood, by artists. The result has been the emergence of code-based art, a relatively new field in the rich tradition of arts history that today acts as an accessible new medium in the practice of visual artists, sculptors, musicians and performers.
