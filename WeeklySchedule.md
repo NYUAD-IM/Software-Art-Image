@@ -100,6 +100,8 @@
 ### Week 3 (3/29)
 - Review homework
 - Algorithmic techniques in oF
+- [Software-Art-Image/code](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code)
+- [Code examples from previous class](https://github.com/periode/software-art-image)
 - [ofxAddons](https://ofxaddons.com/categories)
   - [Addons Howto](https://ofxaddons.com/pages/howto)
   - [Freshest addons](https://ofxaddons.com/freshest)
