@@ -118,6 +118,14 @@
     - [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
 - Work session
 
+- Additional Resources
+  - [Drawing Lines (ofBook)](https://openframeworks.cc/ofBook/chapters/lines.html)
+  - [ofPolyline](https://openframeworks.cc/documentation/graphics/ofPolyline/) - see curveTo for bezier curves
+  - [openFrameworks superBasics 7: more generative drawing tutorial](https://www.youtube.com/watch?v=uVMyp3HzV_E)
+  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=10)
+  - [ofColor::fromHsb](https://openframeworks.cc/documentation/types/ofColor/#show_fromHsb) - create color from HSB
+
+
 #### Homework (due 3/31)
 - Readings
   - [Solo for a Black Stroke](https://github.com/periode/software-art-image/blob/master/assets/readings/required/molnar_line.pdf), Vera Molnar, 1997
