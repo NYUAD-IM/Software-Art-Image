@@ -1,5 +1,14 @@
 #pragma once
 
+/**
+ * Tool for exploring the interaction of color inspired by
+ * exercises from Albers.
+ *
+ * Michael Ang https://michaelang.com/
+ * Copyright (c) 2021
+ * MIT License https://opensource.org/licenses/MIT
+ */
+
 #include "ofMain.h"
 #include "ofxGui.h"
 #include "ofxFFmpegRecorder.h"
@@ -51,21 +60,23 @@ class ofApp : public ofBaseApp{
     ofParameter<float> hueFrequency;
     ofParameter<float> hueDegrees;
     
-    // Screengrab image
+    /// Screengrab image
     ofImage screenImage;
     
     /// Actual color of the middle rectangle
     ofColor currentMiddleColor;
 		
     
-    
-    
-    // Video recording
+
+    /// Video recorder
     ofxFFmpegRecorder m_Recorder;
 
     bool isRecordingVideo;
     
-    ofFbo                recordFbo;
-    ofPixels             recordPixels;
+    /// We draw into a frame buffer object so we can get the pixels to put in the video recording
+    ofFbo recordFbo;
+    
+    /// Buffer for pixels that will be sent to video recorder
+    ofPixels recordPixels;
     
 };
