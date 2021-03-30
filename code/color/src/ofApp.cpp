@@ -11,8 +11,8 @@ void ofApp::setup(){
     ofColor defaultLeftColor(101, 38, 61);
     ofColor defaultRightColor(72, 140, 130);
     ofColor defaultMiddleColor(120, 123, 197);
-    float defaultMiddleHeightRatio = 0.10;
-    float defaultMiddleWidthRatio = 0.10;
+    float defaultMiddleHeightRatio = 0.25;
+    float defaultMiddleWidthRatio = 0.25;
     
     // Setup GUI with default values
     gui.setup();
@@ -28,8 +28,8 @@ void ofApp::setup(){
                              defaultMiddleColor,
                              ofColor(0, 0),
                              ofColor(255, 255)));
-    gui.add(middleHeightRatio.set("Middle height ratio", defaultMiddleHeightRatio, 1/10., 1));
-    gui.add(middleWidthRatio.set("Middle width ratio", defaultMiddleWidthRatio, 1/10., 1));
+    gui.add(middleHeightRatio.set("Middle height ratio", defaultMiddleHeightRatio, 1/100., 1));
+    gui.add(middleWidthRatio.set("Middle width ratio", defaultMiddleWidthRatio, 1/100., 1));
 
 
 }
