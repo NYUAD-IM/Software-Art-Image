@@ -36,22 +36,7 @@ void ofApp::setup(){
     gui.add(hueFrequency.set("Hue frequency", 0.05, 0, 0.5)); // Cycles / second
     gui.add(hueDegrees.set("Hue degrees", 50, 0, 180));
     
-    
-    // Setup video
-    ofLog() << ofGetWidth() << "x" << ofGetHeight() << endl;
-    m_Recorder.setup(true, false, glm::vec2(ofGetWidth(), ofGetHeight()));
-    m_Recorder.setOverWrite(true);
-    
-    #if defined(TARGET_OSX)
-    // You need to copy ffmpeg into your data folder
-    m_Recorder.setFFmpegPath(ofToDataPath("ffmpeg"));
-    #elif defined(TARGET_WIN32)
-    m_Recorder.setFFmpegPath(ofToDataPath("ffmpeg/win/ffmpeg.exe"));
-    #endif
-    
-    isRecordingVideo = false;
-    
-    recordFbo.allocate( ofGetWidth(), ofGetHeight(), GL_RGB );
+    setupFbo();
 
 }
 
@@ -138,6 +123,27 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 // CUSTOM FUNCTIONS
+void ofApp::setupFbo()
+{
+    // Setup video
+    ofLog() << ofGetWidth() << "x" << ofGetHeight() << endl;
+    m_Recorder.setup(true, false, glm::vec2(ofGetWidth(), ofGetHeight()));
+    m_Recorder.setOverWrite(true);
+    
+    #if defined(TARGET_OSX)
+    // You need to copy ffmpeg into your data folder
+    m_Recorder.setFFmpegPath(ofToDataPath("ffmpeg"));
+    #elif defined(TARGET_WIN32)
+    m_Recorder.setFFmpegPath(ofToDataPath("ffmpeg/win/ffmpeg.exe"));
+    #endif
+    
+    isRecordingVideo = false;
+    
+    recordFbo.allocate( ofGetWidth(), ofGetHeight(), GL_RGB );
+
+}
+
+
 void ofApp::saveImage(string filename) {
     screenImage.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
     screenImage.save(filename);
@@ -202,6 +208,10 @@ void ofApp::keyPressed(int key){
             
         case 'f': {
             ofToggleFullscreen();
+            
+            // After the screen size changes we need to change the
+            // size of our drawing/recording area
+            setupFbo();
             break;
         }
             

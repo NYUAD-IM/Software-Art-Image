@@ -29,6 +29,9 @@ class ofApp : public ofBaseApp{
         /// Get the value of a sine wave at the given frequency, at the current time
         float sineAtFrequency(float frequency);
     
+        /// Setup for drawing off screen and recording
+        void setupFbo();
+    
 
     
     bool isDebugging;
