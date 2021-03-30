@@ -33,8 +33,8 @@ void ofApp::setup(){
 
     
     gui.add(shouldAnimate.set("Animate", false));
-    gui.add(hueFrequency.set("Hue frequency", 0.25, 0, 2)); // Cycles / second
-    gui.add(hueDegrees.set("Hue degrees", 5, 0, 180));
+    gui.add(hueFrequency.set("Hue frequency", 0.05, 0, 0.5)); // Cycles / second
+    gui.add(hueDegrees.set("Hue degrees", 50, 0, 180));
 
 }
 
@@ -54,7 +54,7 @@ void ofApp::update(){
         // The hue offset is calculated from a sine wave and sweeps
         // hueDegrees on each side of the middle hue
         float hueOffset = sineAtFrequency(hueFrequency) * hueDegrees;
-        ofLog() << ofGetElapsedTimeMillis() % 1000 << ": " << sineAtFrequency(hueFrequency) << " " << hueOffset << endl;
+        // ofLog() << ofGetElapsedTimeMillis() % 1000 << ": " << sineAtFrequency(hueFrequency) << " " << hueOffset << endl;
         
         currentMiddleColor.setHueAngle(middleHue + hueOffset);
     }
