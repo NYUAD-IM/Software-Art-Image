@@ -7,21 +7,27 @@ void ofApp::setup(){
     
     ofSetBackgroundColor(255);
     
-
+    // Defaults, from experimentation
+    ofColor defaultLeftColor(101, 38, 61);
+    ofColor defaultRightColor(72, 140, 130);
+    ofColor defaultMiddleColor(120, 123, 197);
+    float defaultSizeRatio = 0.27;
+    
+    // Setup GUI with default values
     gui.setup();
     gui.add(leftColor.setup("Left Color",
-                            ofColor(100, 100, 140),
+                            defaultLeftColor,
                             ofColor(0, 0),
                             ofColor(255, 255)));
     gui.add(rightColor.setup("Right Color",
-                             ofColor(100, 100, 140),
+                             defaultRightColor,
                              ofColor(0, 0),
                              ofColor(255, 255)));
     gui.add(middleColor.setup("Middle Color",
-                             ofColor(100, 100, 140),
+                             defaultMiddleColor,
                              ofColor(0, 0),
                              ofColor(255, 255)));
-    gui.add(middleRatio.set("Middle size ratio", 0.2));
+    gui.add(middleRatio.set("Middle size ratio", defaultSizeRatio));
 
 }
 
