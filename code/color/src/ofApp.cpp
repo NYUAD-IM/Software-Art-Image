@@ -87,7 +87,7 @@ string ofApp::timestampedFilename() {
 void ofApp::keyPressed(int key){
     switch (key) {
             
-        case 'd':
+        case 'd': {
             // Toggle debug output
             isDebugging = !isDebugging;
             
@@ -99,19 +99,27 @@ void ofApp::keyPressed(int key){
                 ofLog(OF_LOG_NOTICE,"Debugging disabled");
             }
             break;
+        }
             
             
-        case 'g':
+        case 'g': {
             // Toggle GUI
             isDrawGUI = !isDrawGUI;
             break;
+        }
             
-            
-        case 's':
+        case 's': {
             // Take screenshot
             string filename = this->timestampedFilename();
             ofLog(OF_LOG_NOTICE, "Saving image to %s", filename.c_str());
             this->saveImage(filename);
+            break;
+        }
+            
+        case 'f': {
+            ofToggleFullscreen();
+            break;
+        }
     }
 }
 
