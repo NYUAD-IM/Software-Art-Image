@@ -24,6 +24,10 @@ class ofApp : public ofBaseApp{
     
         void saveImage(string filename);
         string timestampedFilename();
+    
+        /// Get the value of a sine wave at the given frequency, at the current time
+        float sineAtFrequency(float frequency);
+    
 
     
     bool isDebugging;
@@ -39,7 +43,14 @@ class ofApp : public ofBaseApp{
     ofParameter<float> middleHeightRatio;
     ofParameter<float> middleWidthRatio;
     
+    ofParameter<bool> shouldAnimate;
+    ofParameter<float> hueFrequency;
+    ofParameter<float> hueDegrees;
+    
     // Screengrab image
     ofImage screenImage;
+    
+    /// Actual color of the middle rectangle
+    ofColor currentMiddleColor;
 		
 };

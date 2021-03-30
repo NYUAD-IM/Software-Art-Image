@@ -31,12 +31,33 @@ void ofApp::setup(){
     gui.add(middleHeightRatio.set("Middle height ratio", defaultMiddleHeightRatio, 1/100., 1));
     gui.add(middleWidthRatio.set("Middle width ratio", defaultMiddleWidthRatio, 1/100., 1));
 
+    
+    gui.add(shouldAnimate.set("Animate", false));
+    gui.add(hueFrequency.set("Hue frequency", 0.25, 0, 2)); // Cycles / second
+    gui.add(hueDegrees.set("Hue degrees", 5, 0, 180));
 
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-
+    // Set middle color based on GUI
+    currentMiddleColor = middleColor;
+    
+    if (shouldAnimate) {
+        // Animate hue of center rectangle
+        // We want to move through an arc of hueDegrees
+        // in 1/hueFrequency seconds
+        
+        // Get the current hue as an angle (0..360.)
+        float middleHue = currentMiddleColor.getHueAngle();
+        
+        // The hue offset is calculated from a sine wave and sweeps
+        // hueDegrees on each side of the middle hue
+        float hueOffset = sineAtFrequency(hueFrequency) * hueDegrees;
+        ofLog() << ofGetElapsedTimeMillis() % 1000 << ": " << sineAtFrequency(hueFrequency) << " " << hueOffset << endl;
+        
+        currentMiddleColor.setHueAngle(middleHue + hueOffset);
+    }
 }
 
 //--------------------------------------------------------------
@@ -59,7 +80,7 @@ void ofApp::draw(){
     ofDrawRectangle(largeWidth, 0, largeWidth, largeHeight);
     
     // Middle rectangles //
-    ofSetColor(middleColor);
+    ofSetColor(currentMiddleColor);
     
     // Draw middle rectangles centered within large rectangles
     int top = largeHeight / 2 - middleHeight / 2;
@@ -86,7 +107,25 @@ string ofApp::timestampedFilename() {
     return ofGetTimestampString("color-%Y%m%d-%H%M%S-%i.png");
 }
 
+float ofApp::sineAtFrequency(float frequency) {
+    // One cycle of a sine wave is 360 degrees = 2*pi radians
+    // We want to go through one full cycle in 1/frequency seconds.
+    //
+    // e.g. a 2Hz sine wave oscillates twice per second, so we
+    //      need to go through 2*2*pi radians in one second
+    
+    float radiansPerCycle = 2*PI;
+    float millisPerCycle = 1000 / frequency;
+    
+    // The modulo operator gives us the remainder, so e.g.
+    // with ofGetElapsedTimeMillis() % 100 we will get a number
+    // that increases from 0 to 99 over 100 milliseconds
+    int millisIntoCycle = ofGetElapsedTimeMillis() % (int)millisPerCycle;
 
+    float percentageIntoCycle = millisIntoCycle / millisPerCycle;
+    
+    return sin(percentageIntoCycle * radiansPerCycle);
+}
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
