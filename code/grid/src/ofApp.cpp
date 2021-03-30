@@ -79,12 +79,6 @@ string ofApp::timestampedFilename() {
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
     
-    if (key == 'd') {
-        // do something
-    } else if (key == 'e') {
-        // something
-    }
-    
     switch (key) {
             
         case 'd':

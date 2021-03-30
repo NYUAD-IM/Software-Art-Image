@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxGui.h"
 
 class ofApp : public ofBaseApp{
 
@@ -20,5 +21,24 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
+    
+        void saveImage(string filename);
+        string timestampedFilename();
+
+    
+    bool isDebugging;
+    bool isDrawGUI;
+    
+    // GUI
+    ofxPanel gui;
+    ofxColorSlider leftColor;
+    ofxColorSlider rightColor;
+    ofxColorSlider middleColor;
+    
+    /// Ratio of small rectangle to large
+    ofParameter<float> middleRatio;
+    
+    // Screengrab image
+    ofImage screenImage;
 		
 };
