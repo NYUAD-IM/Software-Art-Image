@@ -36,7 +36,8 @@ class ofApp : public ofBaseApp{
     ofxColorSlider middleColor;
     
     /// Ratio of small rectangle to large
-    ofParameter<float> middleRatio;
+    ofParameter<float> middleHeightRatio;
+    ofParameter<float> middleWidthRatio;
     
     // Screengrab image
     ofImage screenImage;

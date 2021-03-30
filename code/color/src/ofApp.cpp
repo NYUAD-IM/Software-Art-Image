@@ -11,7 +11,8 @@ void ofApp::setup(){
     ofColor defaultLeftColor(101, 38, 61);
     ofColor defaultRightColor(72, 140, 130);
     ofColor defaultMiddleColor(120, 123, 197);
-    float defaultSizeRatio = 0.27;
+    float defaultMiddleHeightRatio = 0.10;
+    float defaultMiddleWidthRatio = 0.10;
     
     // Setup GUI with default values
     gui.setup();
@@ -27,7 +28,9 @@ void ofApp::setup(){
                              defaultMiddleColor,
                              ofColor(0, 0),
                              ofColor(255, 255)));
-    gui.add(middleRatio.set("Middle size ratio", defaultSizeRatio));
+    gui.add(middleHeightRatio.set("Middle height ratio", defaultMiddleHeightRatio, 1/10., 1));
+    gui.add(middleWidthRatio.set("Middle width ratio", defaultMiddleWidthRatio, 1/10., 1));
+
 
 }
 
@@ -38,11 +41,13 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+    
+    // Calculate sizes of rectangles
     int largeWidth = ofGetWidth() / 2;
     int largeHeight = ofGetHeight();
     
-    int middleWidth = largeWidth * middleRatio;
-    int middleHeight = largeHeight * middleRatio;
+    int middleHeight = largeHeight * middleHeightRatio;
+    int middleWidth = largeWidth * middleWidthRatio;
 
     
     // Left rectangle

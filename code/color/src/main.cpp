@@ -4,7 +4,11 @@
 //========================================================================
 int main( ){
     int height = 800;
-    float aspectRatio = 1.5;
+    
+    /// Set the aspect ratio of the window
+    // float aspectRatio = 1.5; // 3:2
+    float aspectRatio = 1; // the classic square
+    
     int width = height * aspectRatio;
 	ofSetupOpenGL(width,height,OF_WINDOW);			// <-------- setup the GL context
 
