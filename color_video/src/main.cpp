@@ -3,7 +3,6 @@
 
 //========================================================================
 int main( ){
-    /*
     int height = 800;
     
     /// Set the aspect ratio of the window
@@ -12,9 +11,6 @@ int main( ){
     
     int width = height * aspectRatio;
 	ofSetupOpenGL(width,height,OF_WINDOW);			// <-------- setup the GL context
-    */
-    
-    ofSetupOpenGL(1024, 768, OF_WINDOW);
 
 	// this kicks off the running of my app
 	// can be OF_WINDOW or OF_FULLSCREEN
