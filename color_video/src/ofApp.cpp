@@ -122,6 +122,14 @@ void ofApp::draw(){
         if (recordPixels.getWidth() > 0 && recordPixels.getHeight() > 0) {
             m_Recorder.addFrame(recordPixels);
         }
+        
+        // Draw dot to show recording
+        float recordRadius = 10;
+        float recordMargin = 20;
+        recordFbo.begin();
+        ofSetColor(255, 0, 0);
+        ofDrawCircle(ofGetWidth() - recordRadius - recordMargin, recordMargin + recordRadius, recordRadius);
+        recordFbo.end();
     }
     
     // Show the output on the screen
