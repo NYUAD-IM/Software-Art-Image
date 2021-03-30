@@ -143,6 +143,10 @@
 - Talk about Assignment 2 Motion
 
 ### Week 4 (4/7)
+- Motion
+- Recording video
+  - [OF better screen captures!](https://fusefactory.github.io/openfuse/coding/openFrameworks-Better-Quality-Screen-Recording/)
+  - Install ofxFFmpegRecorder
 
 ## <a name="week5"></a>Week 5
 
