@@ -6,8 +6,8 @@ Keys:
 - g - show GUI
 - space - start/stop recording
 
-![Almost matching](color_video/bin/data/almost_matching.png)
-![GUI](color_video/bin/data/gui.png)
-![Thin pink](color_video/bin/data/thin_pink.png)
-![Black unaffected](color_video/bin/data/black_is_uncoerced.png)
+![Almost matching](bin/data/almost_matching.png)
+![GUI](bin/data/gui.png)
+![Thin pink](bin/data/thin_pink.png)
+![Black unaffected](bin/data/black_is_uncoerced.png)
 
