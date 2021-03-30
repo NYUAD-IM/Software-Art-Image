@@ -48,8 +48,8 @@ void ofApp::draw(){
             
             // Draw something for the current cell that varies
             // with the index in the grid
-            ofSetColor(0, 0, 10 + gridIndex * 5);
-            ofDrawCircle(centerX, centerY, 10 + gridIndex * 1);
+            ofSetColor(gridIndex * 20, 0, 0);
+            ofDrawCircle(centerX + 0.2 * gridIndex, centerY, 10 + gridIndex * 1);
             
             gridIndex += 1;
         }
@@ -78,6 +78,12 @@ string ofApp::timestampedFilename() {
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
+    
+    if (key == 'd') {
+        // do something
+    } else if (key == 'e') {
+        // something
+    }
     
     switch (key) {
             
