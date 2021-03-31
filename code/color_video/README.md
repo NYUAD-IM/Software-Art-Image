@@ -18,5 +18,8 @@ Required addons:
 ![GUI](bin/data/gui.png)
 ![Thin pink](bin/data/thin_pink.png)
 ![Brightness affect](bin/data/brightness_affect.png)
+<br/>
+Brightness is affected by the surrouding color.
+
 ![Black unaffected](bin/data/black_is_uncoerced.png)
 
