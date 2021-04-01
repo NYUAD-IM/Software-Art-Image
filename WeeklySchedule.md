@@ -83,7 +83,7 @@
 
   #### Homework (due 3/29)
   - **Watch** these Tutorials
-    - [drawing generative lines tutorial](https://www.youtube.com/watch?v=S4KMORhoFMk)
+    - [openFrameworks superBasics 6: drawing generative lines tutorial (YouTube)](https://www.youtube.com/watch?v=S4KMORhoFMk)
     <!-- - [Line drawing](https://www.youtube.com/watch?v=huUtLo5FjWw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=26) -->
     - [ofxGUI](https://www.youtube.com/watch?v=OzTtd79vfQw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=18)
     - [ofxParameter](https://www.youtube.com/watch?v=DX86QshkduQ&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=19)
@@ -120,9 +120,10 @@
 
 - Additional Resources
   - [Drawing Lines (ofBook)](https://openframeworks.cc/ofBook/chapters/lines.html)
+  - [openFrameworks superBasics 6: drawing generative lines tutorial (YouTube)](https://www.youtube.com/watch?v=S4KMORhoFMk&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=6)
   - [ofPolyline](https://openframeworks.cc/documentation/graphics/ofPolyline/) - see curveTo for bezier curves
-  - [openFrameworks superBasics 7: more generative drawing tutorial](https://www.youtube.com/watch?v=uVMyp3HzV_E)
-  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=10)
+  - [openFrameworks superBasics 7: more generative drawing tutorial (YouTube)](https://www.youtube.com/watch?v=uVMyp3HzV_E)
+  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial (YouTube)](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=10)
   - [ofColor::fromHsb](https://openframeworks.cc/documentation/types/ofColor/#show_fromHsb) - create color from HSB
 
 
