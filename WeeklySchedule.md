@@ -172,7 +172,8 @@
 - Recording video
   - [OF better screen captures!](https://fusefactory.github.io/openfuse/coding/openFrameworks-Better-Quality-Screen-Recording/)
   - Install [ofxFFmpegRecorder](https://github.com/Furkanzmc/ofxFFmpegRecorder)
-  - Install ffmpeg [ffmpeg Mac binary](https://evermeet.cx/ffmpeg/)
+  - Install ffmpeg
+    - [ffmpeg Mac binary](https://evermeet.cx/ffmpeg/)
 
 #### Homework (due 4/12)
   - **Read** [Digital Harmony of Sound and Light](https://github.com/periode/software-art-image/blob/master/assets/readings/required/alves_harmony.pdf)
