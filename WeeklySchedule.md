@@ -3,11 +3,11 @@
 * [Week 1 (3/17) - Introduction](#week1)
 * [Week 2 (3/22) - Getting Started](#week2)
 * [Week 3 (3/29) - GitHub / Work Session / Color](#week3)
-* [Week 4 (4/5) - Assignment 1 Presentations](#week4)
-* [Week 5 (5/12) - Assignment 2 Presentations](#week5)
-* [Week 6 (5/19)](#week6)
-* [Week 7 (5/26)](#week7)
-* [Week 8 (6/3) - Last Class - Final Presentations](#week8)
+* [Week 4 (4/5) - Assignment 1 Presentations / Motion](#week4)
+* [Week 5 (5/12) - More Motion](#week5)
+* [Week 6 (5/19) - Assignment 2 Presentations / Storytelling](#week6)
+* [Week 7 (5/26) - Work Session - Final Presentations 1](#week7)
+* [Week 8 (6/3) - Last Class - Final Presentations 2](#week8)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
@@ -152,7 +152,15 @@
 
 ### Week 4 (4/5)
 - Present Assignment 1 Still
-- Talk about Assignment 2 Motion
+
+- Talk about [Assignment 2 Motion](Assignments.md#assignment-2---motion)
+- [Zach Lieberman | Poetic computation (YouTube)](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=82s)
+
+- Resources
+  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial (YouTube)](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=11)
+  - [openFrameworks superBasics (YouTube)](https://www.youtube.com/playlist?list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l)
+
+
 
 ### Week 4 (4/7)
 - Motion
@@ -163,19 +171,21 @@
 ## <a name="week5"></a>Week 5
 
 ### Week 5 (4/12)
-- Present Assignment 2 Motion
 
 ### Week 5 (4/14)
 
 ## <a name="week6"></a>Week 6
 
 ### Week 6 (4/19)
+- Present Assignment 2 Motion
+- Discuss Assignment 3 Final / Storytelling
 
 ### Week 6 (4/21)
 
 ## <a name="week7"></a>Week 7
 
 ### Week 7 (4/26)
+- Work session
 
 ### Week 7 (4/28)
 - Final Assignment Presentations 1
