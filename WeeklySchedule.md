@@ -157,30 +157,48 @@
 - [Zach Lieberman | Poetic computation (YouTube)](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=82s)
 
 - Resources
-  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial (YouTube)](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=11)
   - [openFrameworks superBasics (YouTube)](https://www.youtube.com/playlist?list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l)
 
-
+#### Homework (due 4/7)
+- **Read** [Experimental Animation: The Joy of Movement by Jules Engel](https://github.com/periode/software-art-image/blob/master/assets/readings/required/engel_movement.pdf)
+- **Read** [Animation by Zach Lieberman (ofBook)](https://openframeworks.cc/ofBook/chapters/animation.html)
+  - Look through [ofBook Animation Examples (mangtronix GitHub)](https://github.com/mangtronix/ofBook/tree/master/chapters/animation/code)
+  - For some examples you may need to change the code to remove `ofAppGlutWindow` - see this [example fix](https://github.com/mangtronix/ofBook/commit/f41f2197d118c17d34a8f9da1b6609251c8d6307)
+- **Watch** [openFrameworks superBasics 10: draw generative sinewave animations tutorial (YouTube)](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=11)
+- **Start** coding an oF app (sketch) that makes a cyclical animation
 
 ### Week 4 (4/7)
-- Motion
+- More Motion
 - Recording video
   - [OF better screen captures!](https://fusefactory.github.io/openfuse/coding/openFrameworks-Better-Quality-Screen-Recording/)
   - Install ofxFFmpegRecorder
 
+#### Homework (due 4/12)
+  - **Read** [Digital Harmony of Sound and Light](https://github.com/periode/software-art-image/blob/master/assets/readings/required/alves_harmony.pdf)
+  - **Code** an openFrameworks app (sketch) that makes a cyclical animation
+  - **Write** a 2-3 paragraph README.md file
+  - **Upload** your code to GitHub
+  - **Add** a link to your code / README.md to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1gF6BIBI3TrMgF6ISTG9CyX4xhv6vIbuCjNc1S77TarE/edit?usp=sharing)
+
 ## <a name="week5"></a>Week 5
 
 ### Week 5 (4/12)
+- Review Sketches
+- Discuss reading
+- More techniques
 
 ### Week 5 (4/14)
+- Work session
 
 ## <a name="week6"></a>Week 6
 
 ### Week 6 (4/19)
 - Present Assignment 2 Motion
 - Discuss Assignment 3 Final / Storytelling
+- Storytelling with live software
 
 ### Week 6 (4/21)
+- Live performance techniques
 
 ## <a name="week7"></a>Week 7
 
