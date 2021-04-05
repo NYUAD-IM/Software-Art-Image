@@ -158,6 +158,7 @@
 
 - Resources
   - [openFrameworks superBasics (YouTube)](https://www.youtube.com/playlist?list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l)
+  - [ofxAnimatable](https://github.com/armadillu/ofxAnimatable) addon for making animations with different motion curves
 
 #### Homework (due 4/7)
 - **Read** [Experimental Animation: The Joy of Movement by Jules Engel](https://github.com/periode/software-art-image/blob/master/assets/readings/required/engel_movement.pdf)
