@@ -173,6 +173,7 @@
   - [Jules Engel Selected Works (YouTube)](https://www.youtube.com/watch?v=JisOpJbHwVY)
   - [Lilac Garden (YouTube)](https://youtu.be/EtVOxxHYP88?t=130)
 - More Motion
+  - [simpletimeline example](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/simpletimeline)
   - [Using ofxPlaylist - A Library for Dynamic Animations](https://poniesandlight.co.uk/reflect/ofxplaylist/)
     - [ofxPlaylist Addon](https://github.com/tgfrerer/ofxPlaylist)
     - [ofxPlaylist simpleExample](https://github.com/tgfrerer/ofxPlaylist/tree/master/simpleExample)
