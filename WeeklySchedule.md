@@ -169,7 +169,14 @@
 - **Start** coding an oF app (sketch) that makes a cyclical animation
 
 ### Week 4 (4/7)
+- Discuss Reading
+  - [Jules Engel Selected Works (YouTube)](https://www.youtube.com/watch?v=JisOpJbHwVY)
+  - [Lilac Garden (YouTube)](https://youtu.be/EtVOxxHYP88?t=130)
 - More Motion
+  - [Using ofxPlaylist - A Library for Dynamic Animations](https://poniesandlight.co.uk/reflect/ofxplaylist/)
+    - [ofxPlaylist Addon](https://github.com/tgfrerer/ofxPlaylist)
+    - [ofxPlaylist simpleExample](https://github.com/tgfrerer/ofxPlaylist/tree/master/simpleExample)
+
 - Recording video
   - [OF better screen captures!](https://fusefactory.github.io/openfuse/coding/openFrameworks-Better-Quality-Screen-Recording/)
   - Install [ofxFFmpegRecorder](https://github.com/Furkanzmc/ofxFFmpegRecorder)
