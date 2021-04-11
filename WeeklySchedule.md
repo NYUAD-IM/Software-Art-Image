@@ -4,10 +4,10 @@
 * [Week 2 (3/22) - Getting Started](#week2)
 * [Week 3 (3/29) - GitHub / Work Session / Color](#week3)
 * [Week 4 (4/5) - Assignment 1 Presentations / Motion](#week4)
-* [Week 5 (5/12) - More Motion](#week5)
-* [Week 6 (5/19) - Assignment 2 Presentations / Storytelling](#week6)
-* [Week 7 (5/26) - Work Session - Final Presentations 1](#week7)
-* [Week 8 (6/3) - Last Class - Final Presentations 2](#week8)
+* [Week 5 (4/12) - More Motion](#week5)
+* [Week 6 (4/19) - Assignment 2 Presentations / Storytelling](#week6)
+* [Week 7 (4/26) - Work Session - Final Presentations 1](#week7)
+* [Week 8 (5/3) - Last Class - Final Presentations 2](#week8)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
