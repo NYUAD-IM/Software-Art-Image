@@ -225,6 +225,7 @@
   - [soundPlayerFFTExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound/soundPlayerFFTExample)
 
 #### Homework (due 4/14)
+  - **Watch** [Draw complex animations with screen translate - tutorial: openFrameworks superBasics e11 (YouTube)](https://www.youtube.com/watch?v=5N12MPK1aC4)
   - **Read** [Daily Sketches in 2016, Zach Lieberman](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
     - Pick one of the examples that stands out to you to discuss in class
 
