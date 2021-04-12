@@ -178,12 +178,6 @@
     - [ofxPlaylist Addon](https://github.com/tgfrerer/ofxPlaylist)
     - [ofxPlaylist simpleExample](https://github.com/tgfrerer/ofxPlaylist/tree/master/simpleExample)
 
-- Recording video
-  - [OF better screen captures!](https://fusefactory.github.io/openfuse/coding/openFrameworks-Better-Quality-Screen-Recording/)
-  - Install [ofxFFmpegRecorder](https://github.com/Furkanzmc/ofxFFmpegRecorder)
-  - Install ffmpeg
-    - [ffmpeg Mac binary](https://evermeet.cx/ffmpeg/)
-
 #### Homework (due 4/12)
   - **Read** [Digital Harmony of Sound and Light](https://github.com/periode/software-art-image/blob/master/assets/readings/required/alves_harmony.pdf)
   - **Code** an openFrameworks app (sketch) that makes a cyclical animation
@@ -206,7 +200,19 @@
   - [John Whitney- Matrix (1971) (YouTube)](https://www.youtube.com/watch?v=ryKT1uIPIaI)
   - [Emergent Visual Music - Ronald Pellegrino (YouTube)](https://www.youtube.com/watch?v=mQXa9gPH3eU)
   - [Breath of the Compassionate - Bill Alves (YouTube)](https://www.youtube.com/watch?v=bl6bDavWVa8)
-- More techniques
+
+
+- Recording video
+  - [OF better screen captures!](https://fusefactory.github.io/openfuse/coding/openFrameworks-Better-Quality-Screen-Recording/)
+  - Install [ofxFFmpegRecorder](https://github.com/Furkanzmc/ofxFFmpegRecorder)
+  - Install ffmpeg
+    - [ffmpeg Mac binary](https://evermeet.cx/ffmpeg/)
+
+- Sound reactive visuals
+  - [Sound (ofBook)](https://openframeworks.cc/ofBook/chapters/sound.html)
+  - [ofSoundGetSpectrum](https://openframeworks.cc/documentation/sound/ofSoundPlayer/#show_ofSoundGetSpectrum)
+  - [soundPlayerFFTExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound/soundPlayerFFTExample)
+
 
 ### Week 5 (4/14)
 - Work session
