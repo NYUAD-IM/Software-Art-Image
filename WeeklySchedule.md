@@ -196,6 +196,16 @@
 ### Week 5 (4/12)
 - Review Sketches
 - Discuss reading
+  - [An Optical Poem - produced by Oskar Fischinger 1938 (YouTube)](https://www.youtube.com/watch?v=6Xc4g00FFLk)
+  - Music Animation Machine
+  - [Videos](http://www.musanim.com/watch_mam.html)
+  - [Techniques](http://www.musanim.com/Techniques/)
+  - [Use of color in the Music Animation Machine](http://www.musanim.com/Color/)
+  - [Synchronization of Animation and Audio](http://www.musanim.com/ProductionNotes/synchronization.html)
+    - [ofxMidi](https://github.com/danomatika/ofxMidi)
+  - [John Whitney- Matrix (1971) (YouTube)](https://www.youtube.com/watch?v=ryKT1uIPIaI)
+  - [Emergent Visual Music - Ronald Pellegrino (YouTube)](https://www.youtube.com/watch?v=mQXa9gPH3eU)
+  - [Breath of the Compassionate - Bill Alves (YouTube)](https://www.youtube.com/watch?v=bl6bDavWVa8)
 - More techniques
 
 ### Week 5 (4/14)
