@@ -201,8 +201,17 @@
   - [Emergent Visual Music - Ronald Pellegrino (YouTube)](https://www.youtube.com/watch?v=mQXa9gPH3eU)
   - [Breath of the Compassionate - Bill Alves (YouTube)](https://www.youtube.com/watch?v=bl6bDavWVa8)
 
+- Work Examples
+  - [Manual Input Sessions - An audiovisual performance by Golan Levin and Zach Lieberman](http://www.tmema.org/mis/)
+  - [Manual Input Sessions - Golan Levin, Zach Liberman (YouTube)](https://www.youtube.com/watch?v=3paLKLZbRY4)
+  - [messa di voce, Golan Levin and Zach Lieberman](http://www.tmema.org/messa/messa.html)
+  - [Messa di Voce (Performance version, 2003) (YouTube)](https://www.youtube.com/watch?v=STRMcmj-gHc)
 
 - Recording video
+  - [Screen Recording with QuickTime](https://libguides.rowan.edu/c.php?g=248114&p=4711659)
+  - [BlackHole: Virtual Audio Driver](https://github.com/ExistentialAudio/BlackHole)
+
+
   - [OF better screen captures!](https://fusefactory.github.io/openfuse/coding/openFrameworks-Better-Quality-Screen-Recording/)
   - Install [ofxFFmpegRecorder](https://github.com/Furkanzmc/ofxFFmpegRecorder)
   - Install ffmpeg
