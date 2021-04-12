@@ -231,6 +231,7 @@
 
 
 ### Week 5 (4/14)
+- Noise
 - Work session
 
 ## <a name="week6"></a>Week 6
