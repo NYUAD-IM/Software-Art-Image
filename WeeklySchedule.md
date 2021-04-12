@@ -207,6 +207,8 @@
   - [messa di voce, Golan Levin and Zach Lieberman](http://www.tmema.org/messa/messa.html)
   - [Messa di Voce (Performance version, 2003) (YouTube)](https://www.youtube.com/watch?v=STRMcmj-gHc)
 
+- Assignment checkin
+
 - Recording video
   - [Screen Recording with QuickTime](https://libguides.rowan.edu/c.php?g=248114&p=4711659)
   - [BlackHole: Virtual Audio Driver](https://github.com/ExistentialAudio/BlackHole)
@@ -221,6 +223,10 @@
   - [Sound (ofBook)](https://openframeworks.cc/ofBook/chapters/sound.html)
   - [ofSoundGetSpectrum](https://openframeworks.cc/documentation/sound/ofSoundPlayer/#show_ofSoundGetSpectrum)
   - [soundPlayerFFTExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound/soundPlayerFFTExample)
+
+#### Homework (due 4/14)
+  - **Read** [Daily Sketches in 2016, Zach Lieberman](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
+    - Pick one of the examples that stands out to you to discuss in class
 
 
 ### Week 5 (4/14)
