@@ -232,6 +232,17 @@
 
 ### Week 5 (4/14)
 - Noise
+  - [Noise - The Book of Shaders](https://thebookofshaders.com/11/)
+  - [Perlin Noise & Random Comparison](https://codepen.io/Aminerman/full/JREYYO)
+  - [Noise Functions - UTexas CS354](https://www.cs.utexas.edu/~theshark/courses/cs354/lectures/cs354-21.pdf) - technical explanation of different noise techniques with nice pictures
+  - [openFrameworks tutorial series - episode 038 - ofNoise (YouTube)](https://www.youtube.com/watch?v=XbiAGyodS3U)
+  - [Generative Typography – A Study](http://www.jacobstanton.com/generative-typography-a-study/)
+  - [openFrameworks noise examples (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/math)
+
+- Introduction to Meshes
+  - [ofBook > Graphics > Meshes](https://openframeworks.cc/ofBook/chapters/openGL.html#meshes)
+  - [ofBook > Basics of Generating Meshes from an Image](https://openframeworks.cc/ofBook/chapters/generativemesh.html)
+  - [openFrameworks creative coding: 3D meshes and Perlin noise - Dan Buzzo (YouTube)](https://www.youtube.com/watch?v=NYl_yLBBWEM)
 - Work session
 
 ## <a name="week6"></a>Week 6
