@@ -262,7 +262,13 @@
   - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
   - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
 
+#### Homework
+- **Read** [Sentences on Conceptual Art - Sol Lewitt](https://github.com/periode/software-art-image/blob/master/assets/readings/required/lewitt_conceptual.pdf)
+- **Read** [The Image of the Change: From the I Ching to the Evolution of Chaos - Yuting Zou](https://github.com/periode/software-art-image/blob/master/assets/readings/optional/zou_iching.pdf)
+
+
 ### Week 6 (4/21)
+- Assignment check-in
 - Live performance techniques
 
 ## <a name="week7"></a>Week 7
