@@ -251,6 +251,9 @@
 - Present Assignment 2 Motion
 - Discuss Assignment 3 Final / Storytelling
 - Storytelling with live software
+  - [Storytelling Fundamentals](https://docs.google.com/presentation/d/1upMjbfCNKeq0U_Jbl-ZM3vyWwDELUeGgw4OiKL2kvlk/edit?usp=sharing)
+  - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
+  - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
 
 ### Week 6 (4/21)
 - Live performance techniques
