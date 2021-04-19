@@ -257,6 +257,7 @@
   - [Reza Ali](https://www.syedrezaali.com/)
     - [misshapenness](https://www.syedrezaali.com/#/misshapenness/)
     - [lormalized](https://www.syedrezaali.com/#/lormalized/)
+- Code Examples
   - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
   - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
 
