@@ -34,7 +34,8 @@ Software Art: Image is a complement to Software Art: Text, a 7-week course appro
 ## Course Objectives
 When the course is finished, students will:
 * Have developed an understanding of process-based artistic practice.
-* Have been introduced to the history and impact of software on visual arts and culture. • Have developed their own artistic voice through writing software.
+* Have been introduced to the history and impact of software on visual arts and culture.
+* Have developed their own artistic voice through writing software.
 * Be accustomed to presenting and discussing software-based artworks.
 * Have developed a familiarity creating visual work in C++ and OpenFrameworks.
 * Have developed a critical outlook on art and aesthetics in the digital age.
