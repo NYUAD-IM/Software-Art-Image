@@ -250,8 +250,8 @@
 ### Week 6 (4/19)
 - Present Assignment 2 Motion
 - Discuss Assignment 3 Final / Storytelling
+- [Storytelling Fundamentals](https://docs.google.com/presentation/d/1upMjbfCNKeq0U_Jbl-ZM3vyWwDELUeGgw4OiKL2kvlk/edit?usp=sharing)
 - Storytelling with live software
-  - [Storytelling Fundamentals](https://docs.google.com/presentation/d/1upMjbfCNKeq0U_Jbl-ZM3vyWwDELUeGgw4OiKL2kvlk/edit?usp=sharing)
   - [Falling Girl - Scott Snibbe](https://www.snibbe.com/digital-art#/projects/interactive/fallinggirl/)
   - [The Treachery of Sanctuary - Chris Milk](http://milk.co/treachery.html)
   - [Reza Ali](https://www.syedrezaali.com/)
