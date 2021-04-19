@@ -252,6 +252,11 @@
 - Discuss Assignment 3 Final / Storytelling
 - Storytelling with live software
   - [Storytelling Fundamentals](https://docs.google.com/presentation/d/1upMjbfCNKeq0U_Jbl-ZM3vyWwDELUeGgw4OiKL2kvlk/edit?usp=sharing)
+  - [Falling Girl - Scott Snibbe](https://www.snibbe.com/digital-art#/projects/interactive/fallinggirl/)
+  - [The Treachery of Sanctuary - Chris Milk](http://milk.co/treachery.html)
+  - [Reza Ali](https://www.syedrezaali.com/)
+    - [misshapenness](https://www.syedrezaali.com/#/misshapenness/)
+    - [lormalized](https://www.syedrezaali.com/#/lormalized/)
   - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
   - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
 
