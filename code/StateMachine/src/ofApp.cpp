@@ -16,6 +16,8 @@ void ofApp::setup(){
 
 //--------------------------------------------------------------
 void ofApp::update(){
+    
+    // Update the target values based on the current state
     switch (_currentState) {
         case Start_State: {
             // Initialize our values
@@ -45,19 +47,22 @@ void ofApp::update(){
             
     }
     
+    // If we're transitioning, smooth the position
     if (_isTransitioning) {
-        // If we're transitioning, smooth the position
         // We use exponential smoothing, but you could also lerp, etc.
         _currentRadius = _radiusSmoothing * _currentRadius + (1 - _radiusSmoothing) * _targetRadius;
         _currentCenter.x = _centerSmoothing * _currentCenter.x + (1 - _centerSmoothing) * _targetCenter.x;
         _currentCenter.y = _centerSmoothing * _currentCenter.y + (1 - _centerSmoothing) * _targetCenter.y;
         
+        // Check if the transition time is over
         if (ofGetElapsedTimef() > (_transitionStartTime + _transitionLength)) {
             // Transition is over
             _isTransitioning = false;
         }
+        
     } else {
-        // Not transitioning, so take the values directly
+        // Not transitioning, so take the values directly without
+        // any smoothing
         _currentRadius = _targetRadius;
         _currentCenter = _targetCenter;
     }
@@ -65,10 +70,11 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+    // Draw the circle from the current values
     ofSetColor(ofColor::darkRed);
     ofDrawCircle(_currentCenter, _currentRadius);
     
-    
+    // Some debugging info
     ofSetColor(200);
     ofDrawBitmapString("Current state: " + ofToString(_currentState), 20, ofGetHeight() - 40);
     ofDrawBitmapString("Old state: " + ofToString(_oldState), 20, ofGetHeight() - 20);
@@ -77,6 +83,11 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
+    /*
+     * Keys:
+     * 0-3 - change state immediately, no smoothing
+     * 5-7 - change state with transition smoothing
+     */
 
     switch (key) {
         case '0':
@@ -161,6 +172,7 @@ void ofApp::dragEvent(ofDragInfo dragInfo){
 
 
 //--------------------------------------------------------------
+/// Change state immediately
 void ofApp::changeToState(State newState){
     _oldState = _currentState;
     _currentState = newState;
@@ -168,6 +180,7 @@ void ofApp::changeToState(State newState){
 }
 
 //--------------------------------------------------------------
+/// Transition to new state with transition time
 void ofApp::transitionToState(State newState, float transitionSeconds){
     _oldState = _currentState;
     _currentState = newState;
