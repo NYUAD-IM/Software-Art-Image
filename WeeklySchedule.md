@@ -270,6 +270,13 @@
 ### Week 6 (4/21)
 - Assignment check-in
 - Live performance techniques
+  - [StateMachine example (GitHub)](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/StateMachine)
+
+- Yellowtail - Golan Levin
+  - [Yellowtail](https://web.archive.org/web/20201022032127/http://www.flong.com/projects/yellowtail/)
+  - [openFrameworks port)](https://github.com/n1ckfg/yellowtails/tree/master/openframeworks/yellowtail)
+  - [NFT announcement (twitter)](https://mobile.twitter.com/golan/status/1373765546920054785)
+  - [Yellowtail NFT](https://www.hicetnunc.xyz/objkt/9954)
 
 ## <a name="week7"></a>Week 7
 
