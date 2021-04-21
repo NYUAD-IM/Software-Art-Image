@@ -31,15 +31,16 @@ Software Art: Image is an introduction to the history, theory and practice of co
 
 Software Art: Image is a complement to Software Art: Text, a 7-week course approaching computation from the perspective of poetry and fiction.The two courses can be taken in series or independently.
 
-## Course Objectives
+## Course Learning Outcomes (linked Program Learning Outcomes)
 When the course is finished, students will:
-* Have developed an understanding of process-based artistic practice.
-* Have been introduced to the history and impact of software on visual arts and culture.
-* Have developed their own artistic voice through writing software.
-* Be accustomed to presenting and discussing software-based artworks.
-* Have developed a familiarity creating visual work in C++ and OpenFrameworks.
-* Have developed a critical outlook on art and aesthetics in the digital age.
+* Have developed an understanding of process-based artistic practice. (PLOs 1,2)
+* Have been introduced to the history and impact of software on visual arts and culture. (PLOs 1,4)
+* Have developed their own artistic voice through writing software. (PLOs 2,3,6,7)
+* Be accustomed to presenting and discussing software-based artworks. (PLOs 2,4,7)
+* Have developed a familiarity creating visual work in C++ and OpenFrameworks. (PLOs 5,6)
+* Have developed a critical outlook on art and aesthetics in the digital age. (PLOs 2,4)
 
+The Program Learning Outcomes (PLOs) are described below.
 
 ## Course Assignments
 This course consists of both theoretical discussion and in hands-on assignments. The course assignments will therefore include readings, writing, presenting and coding.
@@ -105,3 +106,14 @@ The full policies and procedures relating to Academic Integrity may be found on 
 Student Portal.
 
 If you’re going to copy/paste some code, please include the author/StackOverflow link as a comment. 
+
+## Interactive Media Program Learning Outcomes
+Upon completion of the major in Interactive Media at NYU Abu Dhabi, all students are expected to have fulfilled the following:
+1. Research and Understanding: IM students will cultivate a substantive understanding of the past, present, and future landscape of Interactive Media.
+2. Analytical Thinking: IM students will be challenged to answer fundamental questions relating to the field of Interactive Media.
+3. Conceptual Thinking: IM students will develop conceptual skills through the use of computational and interactive media tools to create project-based work and project oriented research.
+4. Critical Thinking: IM students will refine their critical thinking skills by analyzing and critiquing work in cultural, social, historical, ethical, and aesthetic contexts.
+5. Technical Implementation: IM students will cultivate technical skills with contemporary media technologies to execute their coursework.
+6. Creative Processes: IM students will gain the ability to explore, innovate, and realize creative ideas in multiple fields of inquiry and interest.
+7. Organization and Communication: IM students will develop professional practices of delivering and sharing their work.
+8. Collaboration: IM Students will gain experience in collaboration through active participation in group and team-based work.
