@@ -271,6 +271,7 @@
 - Assignment check-in
 - Live performance techniques
   - [StateMachine example (GitHub)](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/StateMachine)
+  - [Experimental Game Development (ofBook)](https://openframeworks.cc/ofBook/chapters/game_design.html)
 
 - Yellowtail - Golan Levin
   - [Yellowtail](https://web.archive.org/web/20201022032127/http://www.flong.com/projects/yellowtail/)
