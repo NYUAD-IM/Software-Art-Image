@@ -278,6 +278,12 @@
   - [NFT announcement (twitter)](https://mobile.twitter.com/golan/status/1373765546920054785)
   - [Yellowtail NFT](https://www.hicetnunc.xyz/objkt/9954)
 
+
+#### Homework (due 4/26)
+- **Refine** your final assignment idea
+- **Read** [The Perception of Glitch - Rosa ](https://github.com/periode/software-art-image/blob/master/assets/readings/required/menkman_glitch.pdf)
+- See also [The Glitch Art Genre](https://www.ofluxo.net/the-glitch-art-genre-by-rosa-menkman/)
+
 ## <a name="week7"></a>Week 7
 
 ### Week 7 (4/26)
