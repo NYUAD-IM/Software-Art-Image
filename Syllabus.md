@@ -33,7 +33,7 @@ Software Art: Image is a complement to Software Art: Text, a 7-week course appro
 
 ## Course Learning Outcomes (linked Program Learning Outcomes)
 When the course is finished, students will:
-* Have developed an understanding of process-based artistic practice. (PLOs 1,2)
+* Have developed an understanding of process-based artistic practice. (PLOs 1,2,3)
 * Have been introduced to the history and impact of software on visual arts and culture. (PLOs 1,4)
 * Have developed their own artistic voice through writing software. (PLOs 2,3,6,7)
 * Be accustomed to presenting and discussing software-based artworks. (PLOs 2,4,7)
