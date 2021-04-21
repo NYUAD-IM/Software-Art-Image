@@ -40,7 +40,7 @@ When the course is finished, students will:
 * Have developed a familiarity creating visual work in C++ and OpenFrameworks. (PLOs 5,6)
 * Have developed a critical outlook on art and aesthetics in the digital age. (PLOs 2,4)
 
-The Program Learning Outcomes (PLOs) are described below.
+The [Program Learning Outcomes (PLOs)](#interactive-media-program-learning-outcomes) are described below.
 
 ## Course Assignments
 This course consists of both theoretical discussion and in hands-on assignments. The course assignments will therefore include readings, writing, presenting and coding.
