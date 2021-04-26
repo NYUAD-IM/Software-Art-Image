@@ -319,6 +319,9 @@ Ideas as Form](https://whitney.org/exhibitions/programmed?section=1&subsection=1
 - Project checkins
 - Work Session
 
+- Additional Resources
+  - [Nature of Code openFrameworks port](https://github.com/superartificial/Nature-Of-Code-Open-Frameworks-Port/tree/master/Nature%20Of%20Code%20OF) - code examples from Dan Shiffman's Nature of Code rewritten for openFrameworks
+
 ### Week 7 (4/28)
 - Work Session
 
