@@ -304,6 +304,11 @@
     - [Can simply decompressing a JPEG image trigger an exploit?](https://security.stackexchange.com/questions/97856/can-simply-decompressing-a-jpeg-image-trigger-an-exploit)
     - [Signal countermeasures](https://signal.org/blog/cellebrite-vulnerabilities/)
 
+- [ofFile (openFrameworks)](https://openframeworks.cc/documentation/utils/ofFile/)
+  - [ofBuffer](https://openframeworks.cc/documentation/utils/ofBuffer/)
+  - [ofFile::writeFromBuffer](https://openframeworks.cc/documentation/utils/ofFile/#show_writeFromBuffer)
+
+
 - Virtual Exhibition Visit - [Programmed: Rules, Codes, and Choreographies in Art, 1965–2018 - Whitney Museum of Art](https://whitney.org/exhibitions/programmed)
   - [Rule, Instruction, Algorithm:
 Ideas as Form](https://whitney.org/exhibitions/programmed?section=1&subsection=1#exhibition-artworks)
