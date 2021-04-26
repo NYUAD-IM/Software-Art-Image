@@ -301,6 +301,7 @@
   - Download a digital file and glitch something!
   - Malicious data
     - [Hiding Webshell Backdoor Code in Image Files](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/hiding-webshell-backdoor-code-in-image-files/)
+    - [Can simply decompressing a JPEG image trigger an exploit?](https://security.stackexchange.com/questions/97856/can-simply-decompressing-a-jpeg-image-trigger-an-exploit)
     - [Signal countermeasures](https://signal.org/blog/cellebrite-vulnerabilities/)
 
 - Virtual Exhibition Visit - [Programmed: Rules, Codes, and Choreographies in Art, 1965–2018 - Whitney Museum of Art](https://whitney.org/exhibitions/programmed)
