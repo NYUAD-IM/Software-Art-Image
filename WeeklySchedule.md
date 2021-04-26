@@ -288,14 +288,32 @@
 ## <a name="week7"></a>Week 7
 
 ### Week 7 (4/26)
-- Work session
+- Glitch Art
+  - Discussion
+  - Hex Editors
+    - [hexed.it](https://hexed.it/)
+    - [Xcode Open As->Hex](http://iosbrain.com/blog/2018/01/23/xcode-tidbits-open-as-hex-open-as-source-code-git-line-endings-and-text-encoding/)
+  - [Super Mario Clouds - Cory Archangel](https://whitney.org/collection/works/20588)
+    - [21c - Game mods](http://www.beigerecords.com/cory/21c/21c.html)
+    - [Defining an Ethical Framework for Preserving Cory Arcangel’s Super Mario Clouds](https://resources.culturalheritage.org/emg-review/volume-4-2015-2016/magnin/)
+  - Download a digital file and glitch something!
+
+- Virtual Exhibition Visit - [Programmed: Rules, Codes, and Choreographies in Art, 1965–2018 - Whitney Museum of Art](https://whitney.org/exhibitions/programmed)
+  - [Rule, Instruction, Algorithm:
+Ideas as Form](https://whitney.org/exhibitions/programmed?section=1&subsection=1#exhibition-artworks)
+    - [Josef Albers, Homage to the Square I, 1967](https://whitney.org/exhibitions/programmed?section=1&subsection=2#exhibition-artworks)
+    - [Manfred Mohr, Band Structures P-021-U, 1970–1983](https://whitney.org/exhibitions/programmed?section=1&subsection=18#exhibition-artworks)
+  - Collapsing Instruction and Form  
+    - [W. Bradford Paley, CodeProfiles, 2002](https://whitney.org/exhibitions/programmed?section=3&subsection=3#exhibition-artworks)
+- Project checkins
+- Work Session
 
 ### Week 7 (4/28)
-- Final Assignment Presentations 1
+- Work Session
 
 ## <a name="week8"></a>Week 8
 
 ### Week 8 (5/3)
-- Final Assignment Presentations 2
+- Final Assignment Presentations
 - Course Review
 - Goodbyes!
