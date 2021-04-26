@@ -291,6 +291,8 @@
 - Glitch Art
   - Discussion
   - Hex Editors
+    - [Hexadecimal numeral system (Wikipedia)](https://simple.wikipedia.org/wiki/Hexadecimal)
+    - [ASCII character encoding (Wikipedia)](https://en.wikipedia.org/wiki/ASCII)
     - [hexed.it](https://hexed.it/)
     - [Xcode Open As->Hex](http://iosbrain.com/blog/2018/01/23/xcode-tidbits-open-as-hex-open-as-source-code-git-line-endings-and-text-encoding/)
   - [Super Mario Clouds - Cory Archangel](https://whitney.org/collection/works/20588)
