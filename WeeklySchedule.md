@@ -299,6 +299,9 @@
     - [21c - Game mods](http://www.beigerecords.com/cory/21c/21c.html)
     - [Defining an Ethical Framework for Preserving Cory Arcangel’s Super Mario Clouds](https://resources.culturalheritage.org/emg-review/volume-4-2015-2016/magnin/)
   - Download a digital file and glitch something!
+  - Malicious data
+    - [Hiding Webshell Backdoor Code in Image Files](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/hiding-webshell-backdoor-code-in-image-files/)
+    - [Signal countermeasures](https://signal.org/blog/cellebrite-vulnerabilities/)
 
 - Virtual Exhibition Visit - [Programmed: Rules, Codes, and Choreographies in Art, 1965–2018 - Whitney Museum of Art](https://whitney.org/exhibitions/programmed)
   - [Rule, Instruction, Algorithm:
