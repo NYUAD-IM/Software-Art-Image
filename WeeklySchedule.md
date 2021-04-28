@@ -325,6 +325,13 @@ Ideas as Form](https://whitney.org/exhibitions/programmed?section=1&subsection=1
 ### Week 7 (4/28)
 - Work Session
 
+- Additional Resources - Sound
+  - [Load and play sound](https://openframeworks.cc/learning/04_sound/play_a_sound/)
+  - [Sound (ofBook)](https://openframeworks.cc/ofBook/chapters/sound.html)
+  - [ofSoundPlayer::getPosition()](https://openframeworks.cc/documentation/sound/ofSoundPlayer/#show_getPosition)
+  - [openFrameworks / examples / sound](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound)
+
+
 - openFrameworks Artist - junkiyoshi
   - [プログラミング DE 落描き - Programming Sketch](https://junkiyoshi.com/)
   - [junkiyoshi (GitHub)](https://github.com/junkiyoshi)
