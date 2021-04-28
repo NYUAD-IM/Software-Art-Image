@@ -325,6 +325,11 @@ Ideas as Form](https://whitney.org/exhibitions/programmed?section=1&subsection=1
 ### Week 7 (4/28)
 - Work Session
 
+- openFrameworks Artist - junkiyoshi
+  - [プログラミング DE 落描き - Programming Sketch](https://junkiyoshi.com/)
+  - [junkiyoshi (GitHub)](https://github.com/junkiyoshi)
+  - [kiyoshinakauchi (Instagram)](https://www.instagram.com/kiyoshinakauchi/)
+
 #### Homework (due 5/3)
 - **Finish** your [Final Assignment](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/Assignments.md#assignment-3---storytelling)
 - **Add** your deliverables as specified on the [Assignment 3 Deliverables](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/Assignments.md#deliverables-2)
