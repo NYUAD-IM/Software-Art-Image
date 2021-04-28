@@ -325,9 +325,15 @@ Ideas as Form](https://whitney.org/exhibitions/programmed?section=1&subsection=1
 ### Week 7 (4/28)
 - Work Session
 
+#### Homework (due 5/3)
+- **Finish** your [Final Assignment](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/Assignments.md#assignment-3---storytelling)
+- **Add** your deliverables as specified on the [Assignment 3 Deliverables](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/Assignments.md#deliverables-2)
+- **Prepare** to give a 5-6 minute presentation and 2-3 minute performance in class
+
+
 ## <a name="week8"></a>Week 8
 
 ### Week 8 (5/3)
-- Final Assignment Presentations
+- Final Assignment Presentations / Performances
 - Course Review
 - Goodbyes!
