@@ -348,4 +348,5 @@ Ideas as Form](https://whitney.org/exhibitions/programmed?section=1&subsection=1
 ### Week 8 (5/3)
 - Final Assignment Presentations / Performances
 - Course Review
+  - [Course Review Form](https://m.albert.nyu.edu/app/student/nyuCrseEval/crseEval/1214/20806/AD/10)
 - Goodbyes!
