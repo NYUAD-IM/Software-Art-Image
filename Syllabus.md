@@ -50,19 +50,20 @@ Readings will include book chapters, research papers and articles from art histo
 
 ### Participating
 Since the class will be focused on critical outlooks on artworks as well as discussion of both their execution and underlying concepts, participation by the students contributes to 15% of the final grade. Participation includes (a) expressing one’s own perspective on the readings, (b) discussing and elaborating your opinion on artworks shown in class, (c) offering critical and respectful feedback on classmates’ work, (d) sharing additional content that can be relevant to the topics discussed in class.
-* 15%
+* 15% of final grade
 
 ### Sketching
 Students will be encouraged to produce computer artworks by posting weekly sketches on a public blog. These weekly assignments will explore a particular technique, concept, or artist who will have been discussed that week in class. Each sketch or series of sketches will be accompanied by a short write-up explaining the creative process of that exploration. Sketches are graded on the number of sketches completed that show significant effort / personal progress towards learning the techniques.
-* 15%
+* 15% of final grade
 
 ### Coding
 The main assignments of the class will be two series of work, revolving around two concepts, Still and Motion. Each student will be required to produce a series of work that demonstrate both (a) technical skill, (b) aesthetic judgement and (c) critical knowledge, which will then be presented and critiqued in class. The final project will follow those guidelines, but will not have a pre-defined prompt.
-* 15% + 15% + 20%
+* 15% + 15% + 20% of final grade
+
 
 ### Writing
 Each of the main assignments will be accompanied by a 500 word statement providing a theoretical context to the production of the work, in order to introduce students to not only art creation but also to art criticism and allow them to not only produce, but communicate. These statements will have to touch on (a) the conceptual background for the work, (b) the reasons for its formal qualities as well as (c) the evolution of the work over time.
-* 5% + 5% + 10%
+* 5% + 5% + 10% of final grade
 
 ## Submitting Assignments
 Each assignment should be submitted by (1) posting the output on the student’s website, and by (2a) sending the direct link to that posting to the instructor as an email, along with (2b) a .zip file of the files.
