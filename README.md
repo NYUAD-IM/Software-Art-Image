@@ -2,7 +2,7 @@
 NYU Abu Dhabi — Interactive Media<br/>
 IM-UH 2115 Spring 2021<br/>
 
-Software Art: Text is an applied introduction to the history, theory and practice of computer-aided artistic endeavors in the field of visual arts.
+Software Art: Image is an applied introduction to the history, theory and practice of computer-aided artistic endeavors in the field of visual arts.
 
 _Spring 2021_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
