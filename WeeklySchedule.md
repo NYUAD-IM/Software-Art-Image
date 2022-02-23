@@ -1,5 +1,7 @@
 # Weekly Schedule
 
+*NOTE: This is the schedule for S2021, it will be updated for S2022 soon*
+
 * [Week 1 (3/17) - Introduction](#week1)
 * [Week 2 (3/22) - Getting Started](#week2)
 * [Week 3 (3/29) - GitHub / Work Session / Color](#week3)
