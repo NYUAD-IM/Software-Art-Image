@@ -1,4 +1,4 @@
-# Weekly Schedule - Fall 2022
+# Weekly Schedule - Spring 2022
 
 * [Week 1 (3/23) - Introduction](#week1)
 * [Week 2 (3/22) - Getting Started](#week2)
