@@ -25,7 +25,7 @@ Grading will rely on:
 * **write-up**: explain your creative process, your inspirations and your decision to stop at a certain point. are you satisfied with the work (it's ok not to be)? did you achieve what you expected? did you end up somewhere unexpected?
 
 ### Deliverables
-* Link to source code and writeup in the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/1953XkJildcOiyC_uGXBOlSoccpUdgy9kgfWEb5nNUgE/edit?usp=sharing)
+* Link to source code and writeup submitted via Brightspace->Assignments->Assignment 1
 * Include at least 2 images in your writeup
 
 
@@ -44,7 +44,7 @@ Grading will rely on:
 * **write-up**: explain your creative process, your inspirations and your decision to stop at a certain point. are you satisfied with the work (it's ok not to be)? did you achieve what you expected? did you end up somewhere unexpected?
 
 ### Deliverables
-* Link to source code and writeup in the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/1953XkJildcOiyC_uGXBOlSoccpUdgy9kgfWEb5nNUgE/edit?usp=sharing)
+* Link to source code and writeup submitted via Brightspace->Assignments->Assignment 2
 * Include at least 2 images in your writeup
 * Record a video from your app and upload to Vimeo/YouTube/etc or Google Drive. Provide a link to the video (or embed it) in the writeup
 
@@ -66,7 +66,7 @@ Grading is based on the combined rubrics of both still and motion:
 * write-up
 
 ### Deliverables
-* Link to source code and writeup in the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/1953XkJildcOiyC_uGXBOlSoccpUdgy9kgfWEb5nNUgE/edit?usp=sharing)
+* Link to source code and writeup submitted via Brightspace->Assignments->Assignment 3
 * Include at least 2 images in your writeup
 * Record a video from your app and upload to Vimeo/YouTube/etc or Google Drive. Provide a link to the video (or embed it) in the writeup
 * Make a 2-3 minute performance in class!
