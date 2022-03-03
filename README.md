@@ -1,13 +1,13 @@
 # Software Art: Image
 NYU Abu Dhabi — Interactive Media<br/>
-IM-UH 2115 Spring 2021<br/>
+IM-UH 2115 Spring 2022<br/>
 
 Software Art: Image is an applied introduction to the history, theory and practice of computer-aided artistic endeavors in the field of visual arts.
 
-_Spring 2021_<br/>
+_Spring 2022_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
-Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm (all times Abu Dhabi/GST)<br/>
-Location: Zoom (check NYU Classes for Zoom link)</br>
+Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 4:05pm - 5:20pm (all times Abu Dhabi/GST)<br/>
+Location: TBD</br>
 Office Hours: Discord or by appointment</br>
 Credits: 2<br/>
 
