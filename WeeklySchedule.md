@@ -1,13 +1,13 @@
 # Weekly Schedule - Spring 2022
 
 * [Week 1 (3/23) - Introduction](#week1)
-* [Week 2 (3/22) - Getting Started](#week2)
-* [Week 3 (3/29) - GitHub / Work Session / Color](#week3)
-* [Week 4 (4/5) - Assignment 1 Presentations / Motion](#week4)
-* [Week 5 (4/12) - More Motion](#week5)
-* [Week 6 (4/19) - Assignment 2 Presentations / Storytelling](#week6)
-* [Week 7 (4/26) - Glitch / Exhibition Visit / Work Session](#week7)
-* [Week 8 (5/3) - Last Class - Final Presentations 2](#week8)
+* [Week 2 (3/28) - Getting Started](#week2)
+* [Week 3 (4/4) - GitHub / Work Session / Color](#week3)
+* [Week 4 (4/11) - Assignment 1 Presentations / Motion](#week4)
+* [Week 5 (4/18) - More Motion](#week5)
+* [Week 6 (4/25) - Assignment 2 Presentations / Storytelling](#week6)
+* [Week 7 (5/5) - Glitch / Exhibition Visit / Work Session](#week7)
+* [Week 8 (5/9) - Last Class - Final Presentations 2](#week8)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
@@ -296,11 +296,11 @@
 
 ## <a name="week7"></a>Week 7
 
-### Week 7.1 (5/2) - NO CLASS
+### Week 7 (5/2) - NO CLASS
 
-### Week 7.2 (5/4) - NO CLASS
+### Week 7 (5/4) - NO CLASS
 
-### Week 7.3 (5/5) - CLASS MEETS THURSDAY (2:40-5:20pm)
+### Week 7.1 (5/5) - CLASS MEETS THURSDAY (2:40-5:20pm)
 - Glitch Art
   - Discussion
   - Hex Editors
