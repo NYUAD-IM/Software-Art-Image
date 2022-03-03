@@ -8,7 +8,7 @@ _Spring 2022_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
 Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 4:05pm - 5:20pm (all times Abu Dhabi/GST)<br/>
 Location: TBD</br>
-Office Hours: Discord or by appointment</br>
+Office Hours: By appointment (email or Discord)</br>
 Credits: 2<br/>
 
 **Course website:<br/>**
@@ -20,9 +20,7 @@ https://github.com/NYUAD-IM/Software-Art-Image
 
 [Assignments](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/Assignments.md)
 
-Class recordings: available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
-
-Discord channel **#softwareart**: invite on [NYU Classes](https://newclasses.nyu.edu/)
+Discord channel **#softwareart**: invite on Brightspace->Content
 
 ---
 
