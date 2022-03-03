@@ -1,6 +1,6 @@
 # Weekly Schedule
 
-* [Week 1 (3/17) - Introduction](#week1)
+* [Week 1 (3/23) - Introduction](#week1)
 * [Week 2 (3/22) - Getting Started](#week2)
 * [Week 3 (3/29) - GitHub / Work Session / Color](#week3)
 * [Week 4 (4/5) - Assignment 1 Presentations / Motion](#week4)
@@ -11,11 +11,16 @@
 
 ## <a name="week1"></a>Week 1 - Introduction
 
-### Week 1 (3/17) Introductions / Overview
+### Week 1.1 (3/23) Introductions / Overview
 - Course Overview
 - Introductions
 
-#### Homework (due before start of next class 3/22)
+- openFrameworks Artist - junkiyoshi
+  - [プログラミング DE 落描き - Programming Sketch](https://junkiyoshi.com/)
+  - [junkiyoshi (GitHub)](https://github.com/junkiyoshi)
+  - [kiyoshinakauchi (Instagram)](https://www.instagram.com/kiyoshinakauchi/)
+
+#### Homework (due before start of next class 3/28)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
 
 - **Post** one computer generated image that appeals to you to the #softwareart Discord channel (or email it to Mang)
@@ -28,10 +33,10 @@
 
 ## <a name="week2"></a>Week 2
 
-### Week 2 (3/22)
+### Week 2.1 (3/28)
 - Review Homework
 
-- Talk about Assignment 1 Still **due Week 3 (3/31)**
+- Talk about Assignment 1 Still **due Week 3 (4/11)**
   - [Assignment 1 Still instructions](Assignments.md#assignment-1---still)
 
 - [Artists working with computational media](https://github.com/periode/software-art-image/wiki/artists)
@@ -51,7 +56,7 @@
 
   - Sharing code
 
-#### Homework (due 3/24)
+#### Homework (due 3/30)
 - **Build and run** an oF example on your computer
 - **Watch** tutorials 0-7 from the [openFrameworks tutorial series](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=1)
 - **Code** an openFrameworks app that makes a different composition of 3 circles each time it's run (consider what colours you use)
@@ -60,7 +65,7 @@
   - [What is computer art?](https://github.com/periode/software-art-image/blob/master/assets/readings/required/kawano_art.pdf) Hiroshi Kawano, 1975
   - [Computer and the Visual Arts](https://github.com/periode/software-art-image/blob/master/assets/readings/required/noll_computers_visualarts.pdf) Michael Noll, 1966
 
-### Week 2 (3/24)
+### Week 2.2 (3/30)
 - Reading discussion
   - [Hiroshi Kawano](https://www.openculture.com/2017/05/philosopher-hiroshi-kawano-makes-digital-mondrians-in-1964-the-birth-of-digital-art.html)
   - [Selected Works](http://www03.zkm.de/kawano/index.php/en/works)
@@ -81,7 +86,7 @@
   - [ofColor](https://openframeworks.cc/documentation/types/ofColor/)
 
 
-  #### Homework (due 3/29)
+  #### Homework (due 4/4)
   - **Watch** these Tutorials
     - [openFrameworks superBasics 6: drawing generative lines tutorial (YouTube)](https://www.youtube.com/watch?v=S4KMORhoFMk)
     <!-- - [Line drawing](https://www.youtube.com/watch?v=huUtLo5FjWw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=26) -->
@@ -97,7 +102,7 @@
 
 ## <a name="week3"></a>Week 3
 
-### Week 3 (3/29)
+### Week 3.1 (4/4)
 - Review homework
 - Algorithmic techniques in oF
 - [Software-Art-Image/code](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code)
@@ -127,12 +132,12 @@
   - [ofColor::fromHsb](https://openframeworks.cc/documentation/types/ofColor/#show_fromHsb) - create color from HSB
 
 
-#### Homework (due 3/31)
+#### Homework (due 4/6)
 - Readings
   - [Solo for a Black Stroke](https://github.com/periode/software-art-image/blob/master/assets/readings/required/molnar_line.pdf), Vera Molnar, 1997
   - [Point](https://github.com/pierredepaz/software-art-image/blob/master/assets/readings/required/kandinsky_point.pdf), Wassily Kandinsky, 1926
 
-### Week 3 (3/31)
+### Week 3.2 (4/6)
 - Discuss readings
 
 - Requested techniques
@@ -150,7 +155,7 @@
 
 ## <a name="week4"></a>Week 4
 
-### Week 4 (4/5)
+### Week 4.1 (4/11)
 - Present Assignment 1 Still
 
 - Talk about [Assignment 2 Motion](Assignments.md#assignment-2---motion)
@@ -160,7 +165,7 @@
   - [openFrameworks superBasics (YouTube)](https://www.youtube.com/playlist?list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l)
   - [ofxAnimatable](https://github.com/armadillu/ofxAnimatable) addon for making animations with different motion curves
 
-#### Homework (due 4/7)
+#### Homework (due 4/13)
 - **Read** [Experimental Animation: The Joy of Movement by Jules Engel](https://github.com/periode/software-art-image/blob/master/assets/readings/required/engel_movement.pdf)
 - **Read** [Animation by Zach Lieberman (ofBook)](https://openframeworks.cc/ofBook/chapters/animation.html)
   - Look through [ofBook Animation Examples (mangtronix GitHub)](https://github.com/mangtronix/ofBook/tree/master/chapters/animation/code)
@@ -168,7 +173,7 @@
 - **Watch** [openFrameworks superBasics 10: draw generative sinewave animations tutorial (YouTube)](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=11)
 - **Start** coding an oF app (sketch) that makes a cyclical animation
 
-### Week 4 (4/7)
+### Week 4.2 (4/13)
 - Discuss Reading
   - [Jules Engel Selected Works (YouTube)](https://www.youtube.com/watch?v=JisOpJbHwVY)
   - [Lilac Garden (YouTube)](https://youtu.be/EtVOxxHYP88?t=130)
@@ -178,7 +183,7 @@
     - [ofxPlaylist Addon](https://github.com/tgfrerer/ofxPlaylist)
     - [ofxPlaylist simpleExample](https://github.com/tgfrerer/ofxPlaylist/tree/master/simpleExample)
 
-#### Homework (due 4/12)
+#### Homework (due 4/18)
   - **Read** [Digital Harmony of Sound and Light](https://github.com/periode/software-art-image/blob/master/assets/readings/required/alves_harmony.pdf)
   - **Code** an openFrameworks app (sketch) that makes a cyclical animation
   - **Write** a 2-3 paragraph README.md file
@@ -187,7 +192,7 @@
 
 ## <a name="week5"></a>Week 5
 
-### Week 5 (4/12)
+### Week 5.1 (4/18)
 - Review Sketches
 - Discuss reading
   - [An Optical Poem - produced by Oskar Fischinger 1938 (YouTube)](https://www.youtube.com/watch?v=6Xc4g00FFLk)
@@ -224,13 +229,13 @@
   - [ofSoundGetSpectrum](https://openframeworks.cc/documentation/sound/ofSoundPlayer/#show_ofSoundGetSpectrum)
   - [soundPlayerFFTExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound/soundPlayerFFTExample)
 
-#### Homework (due 4/14)
+#### Homework (due 4/20)
   - **Watch** [Draw complex animations with screen translate - tutorial: openFrameworks superBasics e11 (YouTube)](https://www.youtube.com/watch?v=5N12MPK1aC4)
   - **Read** [Daily Sketches in 2016, Zach Lieberman](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
     - Pick one of the examples that stands out to you to discuss in class
 
 
-### Week 5 (4/14)
+### Week 5.2 (4/20)
 - Noise
   - [Noise - The Book of Shaders](https://thebookofshaders.com/11/)
   - [Perlin Noise & Random Comparison](https://codepen.io/Aminerman/full/JREYYO)
@@ -245,9 +250,13 @@
   - [openFrameworks creative coding: 3D meshes and Perlin noise - Dan Buzzo (YouTube)](https://www.youtube.com/watch?v=NYl_yLBBWEM)
 - Work session
 
+#### Homework (due 4/25)
+- Submit your your Assignment 2 via Brightspace
+- Be prepared to present your work in class (5-7 minute presentatation)
+
 ## <a name="week6"></a>Week 6
 
-### Week 6 (4/19)
+### Week 6.1 (4/25)
 - Present Assignment 2 Motion
 - Discuss Assignment 3 Final / Storytelling
 - [Storytelling Fundamentals](https://docs.google.com/presentation/d/1upMjbfCNKeq0U_Jbl-ZM3vyWwDELUeGgw4OiKL2kvlk/edit?usp=sharing)
@@ -262,12 +271,12 @@
   - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
   - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
 
-#### Homework
+#### Homework (due 4/27)
 - **Read** [Sentences on Conceptual Art - Sol Lewitt](https://github.com/periode/software-art-image/blob/master/assets/readings/required/lewitt_conceptual.pdf)
 - **Read** [The Image of the Change: From the I Ching to the Evolution of Chaos - Yuting Zou](https://github.com/periode/software-art-image/blob/master/assets/readings/optional/zou_iching.pdf)
 
 
-### Week 6 (4/21)
+### Week 6.2 (4/27)
 - Assignment check-in
 - Live performance techniques
   - [StateMachine example (GitHub)](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/StateMachine)
@@ -280,14 +289,18 @@
   - [Yellowtail NFT](https://www.hicetnunc.xyz/objkt/9954)
 
 
-#### Homework (due 4/26)
+#### Homework (due 5/5)
 - **Refine** your final assignment idea
 - **Read** [The Perception of Glitch - Rosa ](https://github.com/periode/software-art-image/blob/master/assets/readings/required/menkman_glitch.pdf)
 - See also [The Glitch Art Genre](https://www.ofluxo.net/the-glitch-art-genre-by-rosa-menkman/)
 
 ## <a name="week7"></a>Week 7
 
-### Week 7 (4/26)
+### Week 7.1 (5/2) - NO CLASS
+
+### Week 7.2 (5/4) - NO CLASS
+
+### Week 7.3 (5/5) - CLASS MEETS THURSDAY (2:40-5:20pm)
 - Glitch Art
   - Discussion
   - Hex Editors
@@ -321,32 +334,26 @@ Ideas as Form](https://whitney.org/exhibitions/programmed?section=1&subsection=1
 
 - Additional Resources
   - [Nature of Code openFrameworks port](https://github.com/superartificial/Nature-Of-Code-Open-Frameworks-Port/tree/master/Nature%20Of%20Code%20OF) - code examples from Dan Shiffman's Nature of Code rewritten for openFrameworks
-
-### Week 7 (4/28)
-- Work Session
-
 - Additional Resources - Sound
-  - [Load and play sound](https://openframeworks.cc/learning/04_sound/play_a_sound/)
-  - [Sound (ofBook)](https://openframeworks.cc/ofBook/chapters/sound.html)
-  - [ofSoundPlayer::getPosition()](https://openframeworks.cc/documentation/sound/ofSoundPlayer/#show_getPosition)
-  - [openFrameworks / examples / sound](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound)
+    - [Load and play sound](https://openframeworks.cc/learning/04_sound/play_a_sound/)
+    - [Sound (ofBook)](https://openframeworks.cc/ofBook/chapters/sound.html)
+    - [ofSoundPlayer::getPosition()](https://openframeworks.cc/documentation/sound/ofSoundPlayer/#show_getPosition)
+    - [openFrameworks / examples / sound](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound)
 
 
-- openFrameworks Artist - junkiyoshi
-  - [プログラミング DE 落描き - Programming Sketch](https://junkiyoshi.com/)
-  - [junkiyoshi (GitHub)](https://github.com/junkiyoshi)
-  - [kiyoshinakauchi (Instagram)](https://www.instagram.com/kiyoshinakauchi/)
-
-#### Homework (due 5/3)
+#### Homework (due 5/9)
 - **Finish** your [Final Assignment](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/Assignments.md#assignment-3---storytelling)
-- **Add** your deliverables as specified on the [Assignment 3 Deliverables](https://github.com/NYUAD-IM/Software-Art-Image/blob/main/Assignments.md#deliverables-2)
+- **Submit** your assignment via Brightspace
 - **Prepare** to give a 5-6 minute presentation and 2-3 minute performance in class
 
 
 ## <a name="week8"></a>Week 8
 
-### Week 8 (5/3)
+### Week 8.1 (5/9)
+- Final Assignment Presentations / Performances
+
+## Week 8.2 (5/11) - FINAL CLASS
 - Final Assignment Presentations / Performances
 - Course Review
-  - [Course Review Form](https://m.albert.nyu.edu/app/student/nyuCrseEval/crseEval/1214/20806/AD/10)
-- Goodbyes!
+  - Course Review Form
+- Goodbyes for now!
