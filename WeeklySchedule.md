@@ -235,7 +235,8 @@
     - Pick one of the examples that stands out to you to discuss in class
 
 
-### Week 5.2 (4/20)
+### Week 5.2 (4/20) - CLASS MEETS IN C3-019 Film Edit Lab
+- **Class meets in C3-019 Film Edit Lab**
 - Noise
   - [Noise - The Book of Shaders](https://thebookofshaders.com/11/)
   - [Perlin Noise & Random Comparison](https://codepen.io/Aminerman/full/JREYYO)
