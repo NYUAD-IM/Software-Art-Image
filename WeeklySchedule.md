@@ -27,6 +27,7 @@
 
 - **Download** openFrameworks and an IDE (Integrated Development Editor) for your platform and follow the setup guide
     - [openframeworks Mac Xcode setup](https://openframeworks.cc/setup/xcode/)
+      - The latest version of Xcode requires the latest version of MacOS. An example of [getting Xcode for MacOS Catalina 10.15](https://stackoverflow.com/questions/68982941/install-xcode-on-macos-10-15-catalina)
     - [openFrameworks Visual Studio 2019 Windows setup](docs/openFrameworksVS2019.md)
   - In case of setup issues, post your question on Discord or email the professor
 
