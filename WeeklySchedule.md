@@ -23,7 +23,7 @@
 #### Homework (due before start of next class 3/28)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
 
-- **Post** one computer generated image that appeals to you to the #softwareart Discord channel (or email it to Mang)
+- **Post** one computer generated image that appeals to you to the #softwareart Discord channel or Brightspace [Inspiration Topic](https://brightspace.nyu.edu/d2l/le/171380/discussions/topics/307152/View)
 
 - **Download** openFrameworks and an IDE (Integrated Development Editor) for your platform and follow the setup guide
     - [openframeworks Mac Xcode setup](https://openframeworks.cc/setup/xcode/)
