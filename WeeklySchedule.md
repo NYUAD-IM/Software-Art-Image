@@ -31,6 +31,13 @@
   - In case of setup issues, post your question on Discord or email the professor
 
 
+- If using the latest Xcode you may need to enable the "legacy build system" and disable the error message in File->Project Settings
+![Legacy Build 1](docs/Legacy_Build_1.png?raw=true "Legacy Build 1")
+![Legacy Build 2](docs/Legacy_Build_2.png?raw=true "Legacy Build 2")
+
+
+
+
 ## <a name="week2"></a>Week 2
 
 ### Week 2.1 (3/28)
