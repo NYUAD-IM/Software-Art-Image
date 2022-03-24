@@ -7,7 +7,7 @@ Software Art: Image is an applied introduction to the history, theory and practi
 _Spring 2022_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
 Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 4:05pm - 5:20pm (all times Abu Dhabi/GST)<br/>
-Location: TBD</br>
+Location: C3-019 Film Edit Lab (Arts Center ground floor behind Equipment Center)</br>
 Office Hours: By appointment (email or Discord)</br>
 Credits: 2<br/>
 

@@ -49,12 +49,12 @@ Grading will rely on:
 * Record a video from your app and upload to Vimeo/YouTube/etc or Google Drive. Provide a link to the video (or embed it) in the writeup
 
 
-## Assignment 3 - Storytelling
+## Assignment 3 - Final
 
 Create a piece of software art
 
 Make it so that you can control it live (either by pressing keys, moving your mouse, or using GUI)
-over one to two minutes, tell a story by manipulating the visuals on the screen
+over one to two minutes, by manipulating the visuals on the screen
 
 Grading is based on the combined rubrics of both still and motion:
 

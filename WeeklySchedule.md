@@ -23,10 +23,15 @@
 #### Homework (due before start of next class 3/28)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
 
-- **Post** one computer generated image that appeals to you to the #softwareart Discord channel (or email it to Mang)
+- **Post** one computer generated image that appeals to you to the #softwareart Discord channel or Brightspace [Inspiration Topic](https://brightspace.nyu.edu/d2l/le/171380/discussions/topics/307152/View)
 
-- **Download** openFrameworks and an IDE (Integrated Development Editor) for your platform and follow the setup guide
-    - [openframeworks Mac Xcode setup](https://openframeworks.cc/setup/xcode/)
+- <a name="of_install">**Download**</a> openFrameworks and an IDE (Integrated Development Editor) for your platform and follow the setup guide
+    - [openFrameworks download](https://openframeworks.cc/download/) 
+    - [openFrameworks Mac Xcode setup](https://openframeworks.cc/setup/xcode/)
+      - It's preferable to download Xcode directly from the Apple Developer site rather than from the App Store
+      - You can find the download link for the most recent Xcode supported by your MacOS at [xcodereleases.com](https://xcodereleases.com/)
+      - Click the toggle for "Releases" and then look for the most recent released Xcode that you can run
+      - You can check your MacOS version by clicking ->About This Mac
     - [openFrameworks Visual Studio 2019 Windows setup](docs/openFrameworksVS2019.md)
   - In case of setup issues, post your question on Discord or email the professor
 

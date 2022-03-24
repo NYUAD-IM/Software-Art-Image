@@ -53,7 +53,7 @@ Since the class will be focused on critical outlooks on artworks as well as disc
 * 15% of final grade
 
 ### Sketching
-Students will be encouraged to produce computer artworks by posting weekly sketches on a public blog. These weekly assignments will explore a particular technique, concept, or artist who will have been discussed that week in class. Each sketch or series of sketches will be accompanied by a short write-up explaining the creative process of that exploration. Sketches are graded on the number of sketches completed that show significant effort / personal progress towards learning the techniques.
+Students will be encouraged to produce computer artworks by posting weekly sketches. These weekly assignments will explore a particular technique, concept, or artist who will have been discussed that week in class. Each sketch or series of sketches will be accompanied by a short write-up explaining the creative process of that exploration. Sketches are graded on the number of sketches completed that show significant effort / personal progress towards learning the techniques.
 * 15% of final grade
 
 ### Coding
