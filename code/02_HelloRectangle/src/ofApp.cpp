@@ -3,23 +3,42 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     ofBackground(150, 17, 20);
+    
+    // Set initial sizes and colors
+    rectangleWidth = 200;
+    rectangleHeight = 80;
+    redValue = 0;
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-
+    
+    // Cycle rectangle color
+    redValue += 1;
+    if (redValue > 255) {
+        redValue = 0;
+    }
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    ofSetColor(255,140,0);
-    ofDrawRectangle(10, 20, 200, 60);
+    ofSetColor(redValue,140,0);
+    ofDrawRectangle(10, 20, rectangleWidth, rectangleHeight);
 
 }
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-
+    /*
+     * Supported keys:
+     * - l / k change rectangle width
+     */
+    
+    if (key == 'l') {
+        rectangleWidth += 1;
+    } else if (key == 'k') {
+        rectangleWidth -= 1;
+    }
 }
 
 //--------------------------------------------------------------
