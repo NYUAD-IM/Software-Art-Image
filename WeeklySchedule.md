@@ -76,6 +76,7 @@
   - You can take a screenshot manually or use code:
     - [Save/export files (oF)](https://openframeworks.cc/learning/01_basics/how_to_save_a_file/)
     - [imageSaver example in examples/input_output](https://github.com/openframeworks/openFrameworks/tree/master/examples/input_output/imageSaverExample) in your openFrameworks directory
+  - You don't have to submit the code for this exercise
 - **Read** and be ready to discuss
   - [What is computer art?](https://github.com/periode/software-art-image/blob/master/assets/readings/required/kawano_art.pdf) Hiroshi Kawano, 1975
   - [Computer and the Visual Arts](https://github.com/periode/software-art-image/blob/master/assets/readings/required/noll_computers_visualarts.pdf) Michael Noll, 1966
