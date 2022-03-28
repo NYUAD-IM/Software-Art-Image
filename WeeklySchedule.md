@@ -36,9 +36,9 @@
   - In case of setup issues, post your question on Discord or email the professor
 
 
-- If using the latest Xcode you may need to enable the "legacy build system" and disable the error message in File->Project Settings
+- If using the latest Xcode you may need to enable the "New Build System" if you see this error
 ![Legacy Build 1](docs/Legacy_Build_1.png?raw=true "Legacy Build 1")
-![Legacy Build 2](docs/Legacy_Build_2.png?raw=true "Legacy Build 2")
+![New Build System](https://forum.openframeworks.cc/uploads/default/original/3X/3/b/3b22ab0e54fb7b9941db75cfee2688631aa323f3.jpeg)
 
 
 
