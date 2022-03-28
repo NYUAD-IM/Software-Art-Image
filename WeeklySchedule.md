@@ -72,7 +72,7 @@
 - **Build and run** an oF example on your computer
 - **Watch** tutorials 0-7 from the [openFrameworks tutorial series](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=1)
 - **Code** an openFrameworks app that makes a different composition of 3 circles each time it's run (consider what colours you use)
-- **Post** your image to Discord (much preferred) or email it to Mang with an explanation of the rules of the composition
+- **Post** your image to [Brightspace Discussion -> Circles](https://brightspace.nyu.edu/d2l/le/171380/discussions/topics/307719/View)
 - **Read** and be ready to discuss
   - [What is computer art?](https://github.com/periode/software-art-image/blob/master/assets/readings/required/kawano_art.pdf) Hiroshi Kawano, 1975
   - [Computer and the Visual Arts](https://github.com/periode/software-art-image/blob/master/assets/readings/required/noll_computers_visualarts.pdf) Michael Noll, 1966
