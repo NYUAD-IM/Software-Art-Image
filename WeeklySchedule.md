@@ -112,6 +112,7 @@
 
   - **Start** coding an openFrameworks app that makes a drawing with lines and points that can be controlled by sliders
     - The sliders could control e.g. thickness, number of lines, or color
+    - Final app / sketch is due 4/6
   - **Sign up** for [GitHub](https://github.com)
   - **Download** [GitHub Desktop](https://desktop.github.com/)
   - **Read** [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
