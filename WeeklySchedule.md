@@ -110,10 +110,11 @@
     - [ofxParameter](https://www.youtube.com/watch?v=DX86QshkduQ&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=19)
     - [screenshot](https://www.youtube.com/watch?v=A-QbjrGSj60&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=17)
 
-  - **Code** an openFrameworks app that makes a drawing with lines and points that can be controlled by sliders
+  - **Start** coding an openFrameworks app that makes a drawing with lines and points that can be controlled by sliders
     - The sliders could control e.g. thickness, number of lines, or color
-
-
+  - **Sign up** for [GitHub](https://github.com)
+  - **Download** [GitHub Desktop](https://desktop.github.com/)
+  - **Read** [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
 
 
 ## <a name="week3"></a>Week 3
@@ -132,6 +133,7 @@
   - [GitHub](https://github.com/)
     - [GitHub Desktop](https://desktop.github.com/)
   - [Software-Art-Image (GitHub)](https://github.com/NYUAD-IM/Software-Art-Image)
+    - Using the project generator to create Xcode project file for examples  
   - [Dan Shiffman's Git and GitHub for Poets (YouTube)](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)
   - Setting up repository
   - [.gitignore file](https://raw.githubusercontent.com/NYUAD-IM/Software-Art-Image/main/.gitignore)
@@ -154,11 +156,14 @@
 
 
 #### Homework (due 4/6)
-- Readings
+- **Finish** your lines oF app
+- **Submit** a link to your oF app and a short write-up of your algorithm and creative process using Brightspace
+- **Read**
   - [Solo for a Black Stroke](https://github.com/periode/software-art-image/blob/master/assets/readings/required/molnar_line.pdf), Vera Molnar, 1997
   - [Point](https://github.com/pierredepaz/software-art-image/blob/master/assets/readings/required/kandinsky_point.pdf), Wassily Kandinsky, 1926
 
 ### Week 3.2 (4/6)
+- Review sketches
 - Discuss readings
 
 - Requested techniques
