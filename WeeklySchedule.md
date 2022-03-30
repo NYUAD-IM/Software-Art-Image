@@ -127,7 +127,9 @@
   - [Addons Howto](https://ofxaddons.com/pages/howto)
   - [Freshest addons](https://ofxaddons.com/freshest)
 
-- Sharing code on GitHub
+- <a name="github">Sharing code on GitHub</a>
+  - [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
+  - [Dan Shiffman's Git and GitHub for Poets (YouTube)](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)
   - Setting up repository
   - [.gitignore file](https://raw.githubusercontent.com/NYUAD-IM/Software-Art-Image/main/.gitignore)
   - [Renaming to .whatever on Mac](https://stackoverflow.com/questions/5891365/mac-os-x-doesnt-allow-to-name-files-starting-with-a-dot-how-do-i-name-the-hta)
