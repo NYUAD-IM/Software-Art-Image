@@ -129,6 +129,9 @@
 
 - <a name="github">Sharing code on GitHub</a>
   - [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
+  - [GitHub](https://github.com/)
+    - [GitHub Desktop](https://desktop.github.com/)
+  - [Software-Art-Image (GitHub)](https://github.com/NYUAD-IM/Software-Art-Image)
   - [Dan Shiffman's Git and GitHub for Poets (YouTube)](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)
   - Setting up repository
   - [.gitignore file](https://raw.githubusercontent.com/NYUAD-IM/Software-Art-Image/main/.gitignore)
