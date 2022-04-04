@@ -137,8 +137,9 @@
     - Using the project generator to create Xcode project file for examples  
   - [Dan Shiffman's Git and GitHub for Poets (YouTube)](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)
   - Setting up repository
-  - [.gitignore file](https://raw.githubusercontent.com/NYUAD-IM/Software-Art-Image/main/.gitignore)
-  - [Renaming to .whatever on Mac](https://stackoverflow.com/questions/5891365/mac-os-x-doesnt-allow-to-name-files-starting-with-a-dot-how-do-i-name-the-hta)
+  - Copy this [.gitignore file](https://raw.githubusercontent.com/NYUAD-IM/Software-Art-Image/main/.gitignore) into your repository root directory
+    - Then some Xcode files that shouldn't be checked in will be ignored
+    - [Renaming to .whatever on Mac](https://stackoverflow.com/questions/5891365/mac-os-x-doesnt-allow-to-name-files-starting-with-a-dot-how-do-i-name-the-hta)
   - [iTerm2 Terminal (Mac)](https://iterm2.com/)
   - Creating a new project
   - Moving existing projects
