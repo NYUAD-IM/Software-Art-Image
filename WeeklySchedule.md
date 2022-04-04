@@ -160,7 +160,7 @@
 
 #### Homework (due 4/6)
 - **Finish** your lines oF app
-- **Submit** a link to your oF app and a short write-up of your algorithm and creative process using Brightspace
+- **Submit** a link to your oF app and a short write-up of your algorithm and creative process using Brightspace->Assignments->Sketch 1 Lines
 - **Read**
   - [Solo for a Black Stroke](https://github.com/periode/software-art-image/blob/master/assets/readings/required/molnar_line.pdf), Vera Molnar, 1997
   - [Point](https://github.com/pierredepaz/software-art-image/blob/master/assets/readings/required/kandinsky_point.pdf), Wassily Kandinsky, 1926
