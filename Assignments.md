@@ -25,8 +25,8 @@ Grading will rely on:
 * **write-up**: explain your creative process, your inspirations and your decision to stop at a certain point. are you satisfied with the work (it's ok not to be)? did you achieve what you expected? did you end up somewhere unexpected?
 
 ### Deliverables
-* Link to source code and writeup submitted via Brightspace->Assignments->Assignment 1
-* Include at least 2 images in your writeup
+* Link to source code and writeup submitted as a link to a GitHub repository via Brightspace->Assignments->Assignment 1
+* Include at least 3-5 images in your writeup
 
 
 ## Assignment 2 - Motion
