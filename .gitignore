@@ -29,7 +29,8 @@ openFrameworks-Info.plist
 
 */[Bb]uild/
 */[Oo]bj/
-*.o
+*.[Bb]uild/
+*.[Oo]bj/
 */[Dd]ebug*/
 */[Rr]elease*/
 *.mode*
@@ -37,6 +38,7 @@ openFrameworks-Info.plist
 *.pyc
 .svn/
 *.log
+*.opendb
 
 ########################
 # IDE files which should
