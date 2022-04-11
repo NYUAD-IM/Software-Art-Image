@@ -218,7 +218,7 @@
   - **Code** an openFrameworks app (sketch) that makes a cyclical animation
   - **Write** a 2-3 paragraph README.md file
   - **Upload** your code to GitHub
-  - **Add** a link to your code / README.md to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1gF6BIBI3TrMgF6ISTG9CyX4xhv6vIbuCjNc1S77TarE/edit?usp=sharing)
+  - **Submit** a link to your code via Brightspace->Assignments->Sketch 2
 
 ## <a name="week5"></a>Week 5
 
