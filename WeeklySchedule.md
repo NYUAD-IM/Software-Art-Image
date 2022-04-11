@@ -175,11 +175,6 @@
 
 - Colour and the interactions thereof
   - [Interaction of Color Explorer (oF App)](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/color_video)
-- Sinusoids and other functions
-  - [trigonometryExample](https://github.com/openframeworks/openFrameworks/tree/master/examples/math/trigonometryExample)
-  - [trigonometricMotionExample](https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/math/trigonometricMotionExample)
-  - [periodicSignalsExample](https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/math/periodicSignalsExample)
-  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=10)
 
 
 ## <a name="week4"></a>Week 4
@@ -189,6 +184,12 @@
 
 - Talk about [Assignment 2 Motion](Assignments.md#assignment-2---motion)
 - [Zach Lieberman | Poetic computation (YouTube)](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=82s)
+
+- Sinusoids and other functions
+  - [trigonometryExample](https://github.com/openframeworks/openFrameworks/tree/master/examples/math/trigonometryExample)
+  - [trigonometricMotionExample](https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/math/trigonometricMotionExample)
+  - [periodicSignalsExample](https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/math/periodicSignalsExample)
+  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=10)
 
 - Resources
   - [openFrameworks superBasics (YouTube)](https://www.youtube.com/playlist?list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l)
