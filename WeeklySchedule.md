@@ -244,6 +244,14 @@
 
 - Assignment checkin
 
+- [ofPushMatrix](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofPushMatrix)
+  - save/restore 3D transform
+- [ofPushStyle](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofPushStyle)
+  - save/restore drawing properties (color, etc)
+
+- [ofLog](https://openframeworks.cc/documentation/utils/ofLog/)
+  - Debugging statements!
+
 - Recording video
   - [Screen Recording with QuickTime](https://libguides.rowan.edu/c.php?g=248114&p=4711659)
   - [BlackHole: Virtual Audio Driver](https://github.com/ExistentialAudio/BlackHole)
