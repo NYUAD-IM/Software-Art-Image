@@ -213,6 +213,19 @@
     - [ofxPlaylist Addon](https://github.com/tgfrerer/ofxPlaylist)
     - [ofxPlaylist simpleExample](https://github.com/tgfrerer/ofxPlaylist/tree/master/simpleExample)
 
+- [ofPushMatrix](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofPushMatrix)
+  - save/restore 3D transform
+- [ofPushStyle](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofPushStyle)
+  - save/restore drawing properties (color, etc)
+
+- [ofLog](https://openframeworks.cc/documentation/utils/ofLog/)
+  - Debugging statements!
+
+- Vectors (mutable lists of data)
+  - https://openframeworks.cc/ofBook/chapters/stl_vector.html
+
+
+
 #### Homework (due 4/18)
   - **Read** [Digital Harmony of Sound and Light](https://github.com/periode/software-art-image/blob/master/assets/readings/required/alves_harmony.pdf)
   - **Code** an openFrameworks app (sketch) that makes a cyclical animation
@@ -244,14 +257,6 @@
 
 - Assignment checkin
 
-- [ofPushMatrix](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofPushMatrix)
-  - save/restore 3D transform
-- [ofPushStyle](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofPushStyle)
-  - save/restore drawing properties (color, etc)
-
-- [ofLog](https://openframeworks.cc/documentation/utils/ofLog/)
-  - Debugging statements!
-
 - Recording video
   - [Screen Recording with QuickTime](https://libguides.rowan.edu/c.php?g=248114&p=4711659)
   - [BlackHole: Virtual Audio Driver](https://github.com/ExistentialAudio/BlackHole)
@@ -261,10 +266,6 @@
   - Install [ofxFFmpegRecorder](https://github.com/Furkanzmc/ofxFFmpegRecorder)
   - Install ffmpeg
     - [ffmpeg Mac binary](https://evermeet.cx/ffmpeg/)
-
-
-- Vectors (mutable lists of data)
-  - https://openframeworks.cc/ofBook/chapters/stl_vector.html
 
 - Sound reactive visuals
   - [openFrameworks tutorial series - episode 010 - audio (YouTube)](https://www.youtube.com/watch?v=r9bDSvN-3Zk)
