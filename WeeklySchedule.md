@@ -206,7 +206,7 @@
 ### Week 4.2 (4/13)
 - Discuss Reading
   - [Jules Engel Selected Works (YouTube)](https://www.youtube.com/watch?v=JisOpJbHwVY)
-  - [Lilac Garden (YouTube)](https://youtu.be/EtVOxxHYP88?t=130)
+  - [Lilac Garden (YouTube)](https://www.youtube.com/watch?v=ldK_cHj21FY)
 - More Motion
   - [simpletimeline example](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/simpletimeline)
   - [Using ofxPlaylist - A Library for Dynamic Animations](https://poniesandlight.co.uk/reflect/ofxplaylist/)
