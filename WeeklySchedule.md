@@ -254,7 +254,12 @@
   - Install ffmpeg
     - [ffmpeg Mac binary](https://evermeet.cx/ffmpeg/)
 
+
+- Vectors (mutable lists of data)
+  - https://openframeworks.cc/ofBook/chapters/stl_vector.html
+
 - Sound reactive visuals
+  - [openFrameworks tutorial series - episode 010 - audio (YouTube)](https://www.youtube.com/watch?v=r9bDSvN-3Zk)
   - [Sound (ofBook)](https://openframeworks.cc/ofBook/chapters/sound.html)
   - [ofSoundGetSpectrum](https://openframeworks.cc/documentation/sound/ofSoundPlayer/#show_ofSoundGetSpectrum)
   - [soundPlayerFFTExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound/soundPlayerFFTExample)
