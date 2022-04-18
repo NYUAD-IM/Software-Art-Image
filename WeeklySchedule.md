@@ -258,6 +258,7 @@
 - Assignment checkin
 
 - Recording video
+  - [How to record the screen on your Mac](https://support.apple.com/en-us/HT208721)
   - [Screen Recording with QuickTime](https://libguides.rowan.edu/c.php?g=248114&p=4711659)
   - [BlackHole: Virtual Audio Driver](https://github.com/ExistentialAudio/BlackHole)
 
