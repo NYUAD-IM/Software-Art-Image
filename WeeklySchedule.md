@@ -281,6 +281,10 @@
 
 
 ### Week 5.2 (4/20)
+- Code Examples
+  - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
+  - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
+
 - Noise
   - [Noise - The Book of Shaders](https://thebookofshaders.com/11/)
   - [Perlin Noise & Random Comparison](https://codepen.io/Aminerman/full/JREYYO)
@@ -294,6 +298,7 @@
   - [ofBook > Basics of Generating Meshes from an Image](https://openframeworks.cc/ofBook/chapters/generativemesh.html)
   - [openFrameworks creative coding: 3D meshes and Perlin noise - Dan Buzzo (YouTube)](https://www.youtube.com/watch?v=NYl_yLBBWEM)
 - Work session
+
 
 #### Homework (due 4/25)
 - Submit your your Assignment 2 via Brightspace
@@ -312,9 +317,6 @@
   - [Reza Ali](https://www.syedrezaali.com/)
     - [misshapenness](https://www.syedrezaali.com/#/misshapenness/)
     - [lormalized](https://www.syedrezaali.com/#/lormalized/)
-- Code Examples
-  - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
-  - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
 
 #### Homework (due 4/27)
 - **Read** [Sentences on Conceptual Art - Sol Lewitt](https://github.com/periode/software-art-image/blob/master/assets/readings/required/lewitt_conceptual.pdf)
