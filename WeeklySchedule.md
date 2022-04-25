@@ -336,6 +336,7 @@
   - [NFT announcement (twitter)](https://mobile.twitter.com/golan/status/1373765546920054785)
   - [Yellowtail NFT](https://www.hicetnunc.xyz/objkt/9954)
 
+- OpenCV
 
 #### Homework (due 5/5)
 - **Refine** your final assignment idea
