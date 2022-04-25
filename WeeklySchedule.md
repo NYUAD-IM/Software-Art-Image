@@ -321,6 +321,7 @@
 #### Homework (due 4/27)
 - **Read** [Sentences on Conceptual Art - Sol Lewitt](https://github.com/periode/software-art-image/blob/master/assets/readings/required/lewitt_conceptual.pdf)
 - **Read** [The Image of the Change: From the I Ching to the Evolution of Chaos - Yuting Zou](https://github.com/periode/software-art-image/blob/master/assets/readings/optional/zou_iching.pdf)
+- **Start** thinking about your final assignment and be ready to discuss your idea next class
 
 
 ### Week 6.2 (4/27)
