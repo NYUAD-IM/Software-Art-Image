@@ -7,13 +7,12 @@ IM-UH 2115
 
 ## COURSE SYLLABUS
 
-_Spring 2021_<br/>
+_Spring 2022_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
-Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm<br/>
-Location: Zoom (check NYU Classes for Zoom link)</br>
-Office Hours: Discord or by appointment</br>
+Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 4:05pm - 5:20pm (all times Abu Dhabi/GST)<br/>
+Location: C3-019 Film Edit Lab (Arts Center ground floor behind Equipment Center)</br>
+Office Hours: By appointment (email or Discord)</br>
 Credits: 2<br/>
-Add/Drop Period: 1 week for 7-week classes</br>
 
 **Course website:<br/>**
 https://github.com/NYUAD-IM/Software-Art-Image

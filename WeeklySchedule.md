@@ -72,7 +72,11 @@
 - **Build and run** an oF example on your computer
 - **Watch** tutorials 0-7 from the [openFrameworks tutorial series](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=1)
 - **Code** an openFrameworks app that makes a different composition of 3 circles each time it's run (consider what colours you use)
-- **Post** your image to Discord (much preferred) or email it to Mang with an explanation of the rules of the composition
+- **Post** your image to [Brightspace Discussion -> Circles](https://brightspace.nyu.edu/d2l/le/171380/discussions/topics/307719/View)
+  - You can take a screenshot manually or use code:
+    - [Save/export files (oF)](https://openframeworks.cc/learning/01_basics/how_to_save_a_file/)
+    - [imageSaver example in examples/input_output](https://github.com/openframeworks/openFrameworks/tree/master/examples/input_output/imageSaverExample) in your openFrameworks directory
+  - You don't have to submit the code for this exercise
 - **Read** and be ready to discuss
   - [What is computer art?](https://github.com/periode/software-art-image/blob/master/assets/readings/required/kawano_art.pdf) Hiroshi Kawano, 1975
   - [Computer and the Visual Arts](https://github.com/periode/software-art-image/blob/master/assets/readings/required/noll_computers_visualarts.pdf) Michael Noll, 1966
@@ -106,10 +110,12 @@
     - [ofxParameter](https://www.youtube.com/watch?v=DX86QshkduQ&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=19)
     - [screenshot](https://www.youtube.com/watch?v=A-QbjrGSj60&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=17)
 
-  - **Code** an openFrameworks app that makes a drawing with lines and points that can be controlled by sliders
+  - **Start** coding an openFrameworks app that makes a drawing with lines and points that can be controlled by sliders
     - The sliders could control e.g. thickness, number of lines, or color
-
-
+    - Final app / sketch is due 4/6
+  - **Sign up** for [GitHub](https://github.com)
+  - **Download** [GitHub Desktop](https://desktop.github.com/)
+  - **Read** [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
 
 
 ## <a name="week3"></a>Week 3
@@ -123,16 +129,24 @@
   - [Addons Howto](https://ofxaddons.com/pages/howto)
   - [Freshest addons](https://ofxaddons.com/freshest)
 
-- Sharing code on GitHub
+- <a name="github">Sharing code on GitHub</a>
+  - [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
+  - [GitHub](https://github.com/)
+    - [GitHub Desktop](https://desktop.github.com/)
+  - [Software-Art-Image (GitHub)](https://github.com/NYUAD-IM/Software-Art-Image)
+    - Using the project generator to create Xcode project file for examples  
+  - [Dan Shiffman's Git and GitHub for Poets (YouTube)](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)
   - Setting up repository
-  - [.gitignore file](https://raw.githubusercontent.com/NYUAD-IM/Software-Art-Image/main/.gitignore)
-  - [Renaming to .whatever on Mac](https://stackoverflow.com/questions/5891365/mac-os-x-doesnt-allow-to-name-files-starting-with-a-dot-how-do-i-name-the-hta)
+  - Copy this [.gitignore file](https://raw.githubusercontent.com/NYUAD-IM/Software-Art-Image/main/.gitignore) into your repository root directory
+    - Then some Xcode files that shouldn't be checked in will be ignored
+    - [Renaming to .whatever on Mac](https://stackoverflow.com/questions/5891365/mac-os-x-doesnt-allow-to-name-files-starting-with-a-dot-how-do-i-name-the-hta)
   - [iTerm2 Terminal (Mac)](https://iterm2.com/)
   - Creating a new project
   - Moving existing projects
   - Documentation
     - README.md
     - [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+    - [GitHub flavored markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - shows how to include images
 - Work session
 
 - Additional Resources
@@ -145,11 +159,14 @@
 
 
 #### Homework (due 4/6)
-- Readings
+- **Finish** your lines oF app
+- **Submit** a link to your oF app and a short write-up of your algorithm and creative process using Brightspace->Assignments->Sketch 1 Lines
+- **Read**
   - [Solo for a Black Stroke](https://github.com/periode/software-art-image/blob/master/assets/readings/required/molnar_line.pdf), Vera Molnar, 1997
   - [Point](https://github.com/pierredepaz/software-art-image/blob/master/assets/readings/required/kandinsky_point.pdf), Wassily Kandinsky, 1926
 
 ### Week 3.2 (4/6)
+- Review sketches
 - Discuss readings
 
 - Requested techniques
@@ -158,11 +175,6 @@
 
 - Colour and the interactions thereof
   - [Interaction of Color Explorer (oF App)](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/color_video)
-- Sinusoids and other functions
-  - [trigonometryExample](https://github.com/openframeworks/openFrameworks/tree/master/examples/math/trigonometryExample)
-  - [trigonometricMotionExample](https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/math/trigonometricMotionExample)
-  - [periodicSignalsExample](https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/math/periodicSignalsExample)
-  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=10)
 
 
 ## <a name="week4"></a>Week 4
@@ -172,6 +184,12 @@
 
 - Talk about [Assignment 2 Motion](Assignments.md#assignment-2---motion)
 - [Zach Lieberman | Poetic computation (YouTube)](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=82s)
+
+- Sinusoids and other functions
+  - [trigonometryExample](https://github.com/openframeworks/openFrameworks/tree/master/examples/math/trigonometryExample)
+  - [trigonometricMotionExample](https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/math/trigonometricMotionExample)
+  - [periodicSignalsExample](https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/math/periodicSignalsExample)
+  - [openFrameworks superBasics 10: draw generative sinewave animations tutorial](https://www.youtube.com/watch?v=kYejiSrzFzs&list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l&index=10)
 
 - Resources
   - [openFrameworks superBasics (YouTube)](https://www.youtube.com/playlist?list=PL6QF0yo3Zj7DbN76C5-_6VCDF5CPBIz6l)
@@ -188,19 +206,32 @@
 ### Week 4.2 (4/13)
 - Discuss Reading
   - [Jules Engel Selected Works (YouTube)](https://www.youtube.com/watch?v=JisOpJbHwVY)
-  - [Lilac Garden (YouTube)](https://youtu.be/EtVOxxHYP88?t=130)
+  - [Lilac Garden (YouTube)](https://www.youtube.com/watch?v=ldK_cHj21FY)
 - More Motion
   - [simpletimeline example](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/simpletimeline)
   - [Using ofxPlaylist - A Library for Dynamic Animations](https://poniesandlight.co.uk/reflect/ofxplaylist/)
     - [ofxPlaylist Addon](https://github.com/tgfrerer/ofxPlaylist)
     - [ofxPlaylist simpleExample](https://github.com/tgfrerer/ofxPlaylist/tree/master/simpleExample)
 
+- [ofPushMatrix](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofPushMatrix)
+  - save/restore 3D transform
+- [ofPushStyle](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofPushStyle)
+  - save/restore drawing properties (color, etc)
+
+- [ofLog](https://openframeworks.cc/documentation/utils/ofLog/)
+  - Debugging statements!
+
+- Vectors (mutable lists of data)
+  - https://openframeworks.cc/ofBook/chapters/stl_vector.html
+
+
+
 #### Homework (due 4/18)
   - **Read** [Digital Harmony of Sound and Light](https://github.com/periode/software-art-image/blob/master/assets/readings/required/alves_harmony.pdf)
   - **Code** an openFrameworks app (sketch) that makes a cyclical animation
   - **Write** a 2-3 paragraph README.md file
   - **Upload** your code to GitHub
-  - **Add** a link to your code / README.md to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1gF6BIBI3TrMgF6ISTG9CyX4xhv6vIbuCjNc1S77TarE/edit?usp=sharing)
+  - **Submit** a link to your code via Brightspace->Assignments->Sketch 2
 
 ## <a name="week5"></a>Week 5
 
@@ -227,6 +258,7 @@
 - Assignment checkin
 
 - Recording video
+  - [How to record the screen on your Mac](https://support.apple.com/en-us/HT208721)
   - [Screen Recording with QuickTime](https://libguides.rowan.edu/c.php?g=248114&p=4711659)
   - [BlackHole: Virtual Audio Driver](https://github.com/ExistentialAudio/BlackHole)
 
@@ -237,6 +269,7 @@
     - [ffmpeg Mac binary](https://evermeet.cx/ffmpeg/)
 
 - Sound reactive visuals
+  - [openFrameworks tutorial series - episode 010 - audio (YouTube)](https://www.youtube.com/watch?v=r9bDSvN-3Zk)
   - [Sound (ofBook)](https://openframeworks.cc/ofBook/chapters/sound.html)
   - [ofSoundGetSpectrum](https://openframeworks.cc/documentation/sound/ofSoundPlayer/#show_ofSoundGetSpectrum)
   - [soundPlayerFFTExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound/soundPlayerFFTExample)
@@ -248,6 +281,10 @@
 
 
 ### Week 5.2 (4/20)
+- Code Examples
+  - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
+  - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
+
 - Noise
   - [Noise - The Book of Shaders](https://thebookofshaders.com/11/)
   - [Perlin Noise & Random Comparison](https://codepen.io/Aminerman/full/JREYYO)
@@ -261,6 +298,7 @@
   - [ofBook > Basics of Generating Meshes from an Image](https://openframeworks.cc/ofBook/chapters/generativemesh.html)
   - [openFrameworks creative coding: 3D meshes and Perlin noise - Dan Buzzo (YouTube)](https://www.youtube.com/watch?v=NYl_yLBBWEM)
 - Work session
+
 
 #### Homework (due 4/25)
 - Submit your your Assignment 2 via Brightspace
@@ -279,13 +317,11 @@
   - [Reza Ali](https://www.syedrezaali.com/)
     - [misshapenness](https://www.syedrezaali.com/#/misshapenness/)
     - [lormalized](https://www.syedrezaali.com/#/lormalized/)
-- Code Examples
-  - [simpleTimerEventExample (GitHub)](https://github.com/openframeworks/openFrameworks/tree/master/examples/events/simpleTimerEventExample)
-  - [motion example (GitHub)](https://github.com/mangtronix/software-art-image/tree/master/04_motion/motion)
 
 #### Homework (due 4/27)
 - **Read** [Sentences on Conceptual Art - Sol Lewitt](https://github.com/periode/software-art-image/blob/master/assets/readings/required/lewitt_conceptual.pdf)
 - **Read** [The Image of the Change: From the I Ching to the Evolution of Chaos - Yuting Zou](https://github.com/periode/software-art-image/blob/master/assets/readings/optional/zou_iching.pdf)
+- **Start** thinking about your final assignment and be ready to discuss your idea next class
 
 
 ### Week 6.2 (4/27)
@@ -300,6 +336,7 @@
   - [NFT announcement (twitter)](https://mobile.twitter.com/golan/status/1373765546920054785)
   - [Yellowtail NFT](https://www.hicetnunc.xyz/objkt/9954)
 
+- OpenCV
 
 #### Homework (due 5/5)
 - **Refine** your final assignment idea
