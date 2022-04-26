@@ -13,18 +13,40 @@ void ofApp::setup(){
         //get back a list of devices.
         vector<ofVideoDevice> devices = vidGrabber.listDevices();
 
+        // Look for builtin camera
+        char builtinName[] = "FaceTime HD Camera";
+        int builtinID = -1;
+
         for(size_t i = 0; i < devices.size(); i++){
             if(devices[i].bAvailable){
                 //log the device
                 ofLogNotice() << devices[i].id << ": " << devices[i].deviceName;
+                
+                // Check if this is the builtin Mac camera
+                if (!strncmp(devices[i].deviceName.c_str(), builtinName, strlen(builtinName))) {
+                    // Name starts with "FaceTime..."
+                    builtinID = i;
+                }
+                
             }else{
                 //log the device and note it as unavailable
                 ofLogNotice() << devices[i].id << ": " << devices[i].deviceName << " - unavailable ";
             }
         }
 
-        // Update with the ID of your best camera (usually 0)
-        vidGrabber.setDeviceID(2);
+        // Default to first camera
+        int cameraID;
+    
+        if (builtinID >= 0) {
+            ofLogNotice() << "Found FaceTime camera with ID " << cameraID;
+            cameraID = builtinID;
+        } else {
+            // Use first camera - change the ID here to use a different camera
+            cameraID = 0;
+        }
+        
+        ofLogNotice() << "Using camera " << cameraID << " - " << devices[cameraID].deviceName << endl;
+        vidGrabber.setDeviceID(cameraID);
 
         // Set the requested width / height
         // My Facetime camera did not support 320x240
