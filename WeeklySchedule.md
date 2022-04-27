@@ -337,6 +337,7 @@
   - [Yellowtail NFT](https://www.hicetnunc.xyz/objkt/9954)
 
 - OpenCV
+  - [opencvExample (GitHub)](https://github.com/NYUAD-IM/Software-Art-Image/tree/main/code/opencvExample)
 
 #### Homework (due 5/5)
 - **Refine** your final assignment idea
