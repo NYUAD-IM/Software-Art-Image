@@ -65,7 +65,7 @@ Each of the main assignments will be accompanied by a 500 word statement providi
 * 5% + 5% + 10% of final grade
 
 ## Submitting Assignments
-Each assignment should be submitted by (1) posting the output on the student’s website, and by (2a) sending the direct link to that posting to the instructor as an email, along with (2b) a .zip file of the files.
+Each assignment should be submitted using Brightspace.
 
 ## Grade breakdown
 * Participating 15%
