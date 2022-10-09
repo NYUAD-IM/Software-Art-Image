@@ -27,4 +27,6 @@ class ofApp : public ofBaseApp{
     /// Speed in pixels / frame
     ofVec2f speed;
     
+    ofVec2f gravityForce;
+    
 };

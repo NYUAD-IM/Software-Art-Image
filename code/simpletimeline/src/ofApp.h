@@ -24,6 +24,8 @@ class ofApp : public ofBaseApp{
     
     ofPoint position;
     float radius;
+    float startingRadius;
+    float largerRadius;
     ofColor circleColor;
     ofColor drawColor;
 };

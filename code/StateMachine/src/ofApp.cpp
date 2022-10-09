@@ -6,8 +6,8 @@ void ofApp::setup(){
     _oldState = Start_State;
     _isTransitioning = false;
     
-    _radiusSmoothing = 0.9;
-    _centerSmoothing = 0.9;
+    _radiusSmoothing = 0.1;
+    _centerSmoothing = 0.1;
     
     ofLog() << "Start state: " << _currentState << endl;
         

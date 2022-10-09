@@ -7,10 +7,12 @@ void ofApp::setup(){
     ofSetBackgroundColor(ofColor::darkGray);
 
     // Initial position - centered
-    position.set(ofGetWidth()/2, ofGetHeight()/2, 0);
+    position.set(ofGetWidth()/2, ofGetHeight() - 10, 0);
     
     // 1 pixel per second
-    speed.set(1,0);
+    speed.set(0,0);
+    
+    gravityForce = ofVec2f(0, 0.01);
 }
 
 //--------------------------------------------------------------
@@ -18,6 +20,8 @@ void ofApp::update(){
     
     // Move the position by the speed
     position += speed;
+    
+    speed += gravityForce;
     
     // Check if off screen and wrap around
     // How would you allow the circle to go completely

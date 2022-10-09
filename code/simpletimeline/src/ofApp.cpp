@@ -5,7 +5,8 @@ void ofApp::setup(){
     position.set(ofGetWidth()/2, ofGetHeight()/2);
     circleColor = ofColor::red;
     drawColor = circleColor;
-    radius = 60;
+    radius = startingRadius = 60;
+    largerRadius = 200;
 }
 
 //--------------------------------------------------------------
@@ -39,9 +40,14 @@ void ofApp::update(){
         // How far (as a percentage) are we to the next change?
         float percentageToThird = timeSinceSecond / (thirdChangeTime - secondChangeTime);
         
+        // Log the current animation progress
+        ofLog(OF_LOG_NOTICE, "animation percentage: " + ofToString(percentageToThird));
+        
         // Interpolate the color based on the percentage through the
         // animation
         drawColor = circleColor.getLerped(ofColor::green, percentageToThird);
+        
+        radius = startingRadius + (largerRadius - startingRadius) * percentageToThird;
         
     }
 }

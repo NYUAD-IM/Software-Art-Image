@@ -1,5 +1,13 @@
 # About opencvExample
 
+Original code:
+https://github.com/openframeworks/openFrameworks/tree/master/examples/computer_vision/opencvExample
+
+Updated by Michael Ang for Software Art: Image at NYUAD
+* Added code to list video camera IDs
+* Autodetect builtin FaceTime camera
+* Changed default video size for live camera
+
 ![Screenshot of opencvExample](opencvExample.png)
 
 ### Learning Objectives

@@ -129,7 +129,9 @@ float ofApp::sineAtFrequency(float frequency) {
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
+    /*
     switch (key) {
+     
             
         case 'd': {
             // Toggle debug output
@@ -164,7 +166,9 @@ void ofApp::keyPressed(int key){
             ofToggleFullscreen();
             break;
         }
+             
     }
+     */
 }
 
 //--------------------------------------------------------------

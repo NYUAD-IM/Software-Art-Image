@@ -2,13 +2,14 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    isDrawGUI = false;
+    shouldDrawGui = false;
     isDebugging = false;
     
     ofSetBackgroundColor(255);
     
     // Defaults, from experimentation
-    ofColor defaultLeftColor(101, 38, 61);
+    //ofColor defaultLeftColor(101, 38, 61);
+    ofColor defaultLeftColor = ofColor::fromHsb(0, 128.0, 255.);
     ofColor defaultRightColor(72, 140, 130);
     ofColor defaultMiddleColor(120, 123, 197);
     float defaultMiddleHeightRatio = 0.25;
@@ -95,7 +96,7 @@ void ofApp::draw(){
     ofDrawRectangle(left, top, middleWidth, middleHeight);
     
 
-    if (isDrawGUI) {
+    if (shouldDrawGui) {
         gui.draw();
     }
     
@@ -175,6 +176,7 @@ float ofApp::sineAtFrequency(float frequency) {
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
+    
     switch (key) {
             
         case 'd': {
@@ -194,7 +196,7 @@ void ofApp::keyPressed(int key){
             
         case 'g': {
             // Toggle GUI
-            isDrawGUI = !isDrawGUI;
+            shouldDrawGui = !shouldDrawGui;
             break;
         }
             
@@ -259,7 +261,22 @@ void ofApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
+    //ofLog("Adding point");
+    ofLog(OF_LOG_NOTICE, "adding point " + ofToString(x) + "," + ofToString(y));
 
+    /*
+    ofPoint newPoint;
+    newPoint.x = ofNoise()..
+    newPoint.y = ofNoise()...
+     */
+    
+    
+
+    userClicks.push_back(ofPoint(x, y));
+    
+    for (int i = 0; i < userClicks.size(); i++) {
+        ofLog(OF_LOG_NOTICE,"point[" + ofToString(i) + "]: " + ofToString(userClicks[i].x) + "," + ofToString(userClicks[i].y));
+    }
 }
 
 //--------------------------------------------------------------

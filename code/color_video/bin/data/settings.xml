@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <group>
-	<Left_Color>148, 160, 88, 255</Left_Color>
-	<Right_Color>64, 61, 140, 255</Right_Color>
-	<Middle_Color>49, 54, 138, 255</Middle_Color>
+	<Left_Color>255, 126, 126, 255</Left_Color>
+	<Right_Color>140, 64, 61, 255</Right_Color>
+	<Middle_Color>120, 123, 197, 255</Middle_Color>
 	<Middle_size_ratio>0.39</Middle_size_ratio>
-	<Middle_height_ratio>0.04465</Middle_height_ratio>
-	<Middle_width_ratio>0.78715</Middle_width_ratio>
-	<Animate>1</Animate>
-	<Hue_frequency>0.135</Hue_frequency>
-	<Hue_degrees>72.9</Hue_degrees>
+	<Middle_height_ratio>0.25</Middle_height_ratio>
+	<Middle_width_ratio>0.25</Middle_width_ratio>
+	<Animate>0</Animate>
+	<Hue_frequency>0.05</Hue_frequency>
+	<Hue_degrees>50</Hue_degrees>
 </group>

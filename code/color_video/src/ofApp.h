@@ -44,7 +44,7 @@ class ofApp : public ofBaseApp{
 
     
     bool isDebugging;
-    bool isDrawGUI;
+    bool shouldDrawGui;
     
     // GUI
     ofxPanel gui;
@@ -65,6 +65,8 @@ class ofApp : public ofBaseApp{
     
     /// Actual color of the middle rectangle
     ofColor currentMiddleColor;
+    
+    vector<ofPoint> userClicks;
 		
     
 
